@@ -1,21 +1,21 @@
 import { Injectable } from '@angular/core';
 import { environment } from '../environments/environment';
-import tags from "../assets/all_tags.json";
+import tags from "../assets/all_tags_new.json";
 
 @Injectable({
-  providedIn: 'root'
+	providedIn: 'root'
 })
 export class TagsService {
-	tags:any;
+	tags: any;
 
-  constructor() {
-  	this.tags = tags;
-  }
+	constructor() {
+		this.tags = tags;
+	}
 
-  getIdsForTag(tag:string) {
-  	if(tag in this.tags) {
-  		return this.tags[tag];
-  	}
-  	return null;
-  }
+	getIdsForTag(tag: string) {
+		if (tag in this.tags) {
+			return this.tags[tag];
+		}
+		return null;
+	}
 }

@@ -582,5 +582,11 @@
             "theory_depth_passing",
             "theory_depth_results"
         ]
+    },
+    {
+        "title": "measure",
+        "clusters": [
+            "electroencephalography"
+        ]
     }
 ]
