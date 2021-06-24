@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { environment } from '../environments/environment';
-import tags from "../assets/all_tags_new.json";
+import tags from "../assets/all_tags.json";
 
 @Injectable({
 	providedIn: 'root'

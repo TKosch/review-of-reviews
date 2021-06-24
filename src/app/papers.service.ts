@@ -1,7 +1,6 @@
 import { Injectable } from '@angular/core';
 import { environment } from '../environments/environment';
-import allPapers from "../assets/all_papers_new2.json";
-// import papers2020 from "../assets/all_papers_2020.json";
+import allPapers from "../assets/all_papers.json";
 
 @Injectable({
   providedIn: 'root'
