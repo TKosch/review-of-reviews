@@ -4,7 +4,12 @@
         "2",
         "3",
         "4",
-        "5"
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ],
     "DIS": [],
     "Ubicomp": [],
@@ -43,7 +48,8 @@
     "Computer": [],
     "cerebral": [
         "4",
-        "5"
+        "5",
+        "9"
     ],
     "ocular": [
         "3"
@@ -53,13 +59,18 @@
     "larynx": [],
     "muscles": [],
     "questionnaires": [
-        "2"
+        "2",
+        "8"
     ],
     "nasa-tlx": [
-        "4"
+        "4",
+        "6",
+        "10"
     ],
     "electroencephalography": [],
-    "functional magnetic resonance imaging": [],
+    "functional magnetic resonance imaging": [
+        "9"
+    ],
     "functional near-infrared spectroscopy": [
         "5"
     ],
@@ -111,6 +122,7 @@
     "postural behavior and gestures": [],
     "cortisol": [],
     "meta": [
-        "1"
+        "1",
+        "7"
     ]
 }
