@@ -227,9 +227,73 @@
         ]
     },
     {
-        "title": "measures",
+        "title": "organ",
         "clusters": [
-            "electroencephalography"
+            "cerebral",
+            "ocular",
+            "cardiovascular",
+            "dermal",
+            "larynx",
+            "muscles"
+        ]
+    },
+    {
+        "title": "modality",
+        "clusters": [
+            "questionnaires",
+            "nasa-tlx",
+            "electroencephalography",
+            "functional magnetic resonance imaging",
+            "functional near-infrared spectroscopy",
+            "eye tracking",
+            "electrocardiography",
+            "photoplethysmography",
+            "respiration",
+            "thermal",
+            "skin conductance",
+            "task performance",
+            "pen input",
+            "touch input",
+            "body movement",
+            "saliva",
+            "speech",
+            "electromyography"
+        ]
+    },
+    {
+        "title": "metric",
+        "clusters": [
+            "frequencies",
+            "event-related potentials",
+            "hemodynamic response",
+            "electromagnetic changes",
+            "pupil diameter",
+            "saccades",
+            "eye blinks",
+            "fixations",
+            "occular movements",
+            "heart rate",
+            "respiration",
+            "temperature",
+            "number of errors",
+            "electrodermal activity",
+            "task completion time",
+            "task accuracy",
+            "reaction time",
+            "keystroke dynamics",
+            "language production",
+            "real-time self report",
+            "lexical density",
+            "tempo",
+            "pauses",
+            "spectral domain",
+            "pitch contour",
+            "linguistic features",
+            "muscle contraction",
+            "glance duration",
+            "mouse movement",
+            "postural behavior and gestures",
+            "cortisol"
         ]
     }
 ]
