@@ -269,7 +269,8 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx + eeg",
+            "nasa-tlx",
+            "eeg",
             "CHI"
         ]
     },
