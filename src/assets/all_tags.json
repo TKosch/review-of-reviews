@@ -19,7 +19,17 @@
         "17",
         "18",
         "19",
-        "20"
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
     ],
     "DIS": [],
     "Ubicomp": [],
@@ -60,19 +70,29 @@
         "4",
         "5",
         "9",
-        "12"
+        "12",
+        "21",
+        "22",
+        "25",
+        "29"
     ],
     "ocular": [
         "3",
         "16",
-        "19"
+        "19",
+        "24",
+        "26",
+        "27",
+        "28"
     ],
     "cardiovascular": [
         "17",
-        "20"
+        "20",
+        "24"
     ],
     "dermal": [
-        "13"
+        "13",
+        "24"
     ],
     "larynx": [],
     "muscles": [],
@@ -83,7 +103,8 @@
         "13",
         "14",
         "17",
-        "20"
+        "20",
+        "25"
     ],
     "nasa-tlx": [
         "4",
@@ -91,13 +112,25 @@
         "10",
         "14",
         "15",
-        "19"
+        "19",
+        "21",
+        "23",
+        "27",
+        "28",
+        "30"
     ],
-    "electroencephalography": [],
+    "electroencephalography": [
+        "21",
+        "24",
+        "25",
+        "29"
+    ],
     "functional magnetic resonance imaging": [
         "9",
         "12",
-        "15"
+        "15",
+        "22",
+        "23"
     ],
     "functional near-infrared spectroscopy": [
         "5"
@@ -119,12 +152,19 @@
     "saliva": [],
     "speech": [],
     "electromyography": [],
-    "frequencies": [],
-    "event-related potentials": [],
+    "frequencies": [
+        "21",
+        "25"
+    ],
+    "event-related potentials": [
+        "29"
+    ],
     "hemodynamic response": [
         "5",
         "12",
-        "15"
+        "15",
+        "22",
+        "23"
     ],
     "electromagnetic changes": [
         "9"
@@ -132,12 +172,21 @@
     "pupil diameter": [
         "3",
         "16",
-        "19"
+        "19",
+        "26",
+        "27"
     ],
-    "saccades": [],
-    "eye blinks": [],
+    "saccades": [
+        "24"
+    ],
+    "eye blinks": [
+        "24"
+    ],
     "fixations": [],
-    "occular movements": [],
+    "ocular movements": [
+        "24",
+        "28"
+    ],
     "heart rate": [
         "17",
         "20"

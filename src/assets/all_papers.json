@@ -270,8 +270,10 @@
         "venue": "CHI",
         "tags": [
             "nasa-tlx",
-            "eeg",
-            "CHI"
+            "electroencephalography",
+            "CHI",
+            "cerebral",
+            "frequencies"
         ]
     },
     "22": {
@@ -282,8 +284,10 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "fnirs",
-            "CHI"
+            "functional magnetic resonance imaging",
+            "CHI",
+            "cerebral",
+            "hemodynamic response"
         ]
     },
     "23": {
@@ -294,8 +298,10 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + fnirs",
-            "CHI"
+            "nasa-tlx",
+            "functional magnetic resonance imaging",
+            "CHI",
+            "hemodynamic response"
         ]
     },
     "24": {
@@ -306,8 +312,16 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "ecg + gaze + eda",
-            "CHI"
+            "electrocardiography",
+            "cardiovascular",
+            "gaze",
+            "dermal",
+            "electrodermal activity",
+            "CHI",
+            "eye blinks",
+            "saccades",
+            "ocular",
+            "ocular movements"
         ]
     },
     "25": {
@@ -318,7 +332,10 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "performance + questionnaire",
+            "cerebral",
+            "electroencephalography",
+            "frequencies",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -330,8 +347,9 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "gaze",
-            "CHI"
+            "ocular",
+            "CHI",
+            "pupil diameter"
         ]
     },
     "27": {
@@ -342,7 +360,9 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + gaze",
+            "nasa-tlx",
+            "ocular",
+            "pupil diameter",
             "CHI"
         ]
     },
@@ -354,7 +374,9 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "gaze + nasa-nasa-tlx",
+            "ocular",
+            "ocular movements",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -366,7 +388,9 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "eeg",
+            "cerebral",
+            "electroencephalography",
+            "event-related potentials",
             "CHI"
         ]
     },
@@ -378,7 +402,7 @@
         "year": "2006",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
