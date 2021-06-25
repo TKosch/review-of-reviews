@@ -45,8 +45,10 @@
         "venue": "CHI",
         "tags": [
             "electroencephalography",
+            "frequencies",
             "nasa-tlx",
-            "CHI"
+            "CHI",
+            "cerebral"
         ]
     },
     "5": {
@@ -58,6 +60,7 @@
         "venue": "CHI",
         "tags": [
             "functional near-infrared spectroscopy",
+            "hemodynamic response",
             "CHI"
         ]
     },
@@ -106,7 +109,9 @@
         "venue": "CHI",
         "tags": [
             "functional magnetic resonance imaging",
-            "CHI"
+            "CHI",
+            "electromagnetic changes",
+            "cerebral"
         ]
     },
     "10": {
@@ -129,7 +134,7 @@
         "year": "2011",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -141,8 +146,10 @@
         "year": "2011",
         "venue": "CHI",
         "tags": [
-            "fnirs",
-            "CHI"
+            "functional magnetic resonance imaging",
+            "CHI",
+            "cerebral",
+            "hemodynamic response"
         ]
     },
     "13": {
@@ -153,7 +160,9 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "questionnaire + eda",
+            "questionnaires",
+            "dermal",
+            "electrodermal activity",
             "CHI"
         ]
     },
@@ -165,7 +174,8 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "questionnaire + nasa-nasa-tlx",
+            "questionnaires",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -177,7 +187,9 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + fnirs",
+            "nasa-tlx",
+            "functional magnetic resonance imaging",
+            "hemodynamic response",
             "CHI"
         ]
     },
@@ -189,7 +201,8 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "gaze",
+            "ocular",
+            "pupil diameter",
             "CHI"
         ]
     },
@@ -201,7 +214,10 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "heart rate (ecg, photo) +  blood pressure + questionnaires",
+            "heart rate",
+            "questionnaires",
+            "photoplethysmography",
+            "cardiovascular",
             "CHI"
         ]
     },
@@ -213,7 +229,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "",
+            "meta",
             "CHI"
         ]
     },
@@ -225,7 +241,9 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + gaze",
+            "nasa-tlx",
+            "ocular",
+            "pupil diameter",
             "CHI"
         ]
     },
@@ -237,8 +255,10 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "hrv + questionnaire",
-            "CHI"
+            "heart rate",
+            "questionnaires",
+            "CHI",
+            "cardiovascular"
         ]
     },
     "21": {
@@ -249,7 +269,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + eeg",
+            "nasa-tlx + eeg",
             "CHI"
         ]
     },

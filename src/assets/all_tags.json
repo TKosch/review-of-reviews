@@ -9,7 +9,17 @@
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ],
     "DIS": [],
     "Ubicomp": [],
@@ -49,27 +59,45 @@
     "cerebral": [
         "4",
         "5",
-        "9"
+        "9",
+        "12"
     ],
     "ocular": [
-        "3"
+        "3",
+        "16",
+        "19"
     ],
-    "cardiovascular": [],
-    "dermal": [],
+    "cardiovascular": [
+        "17",
+        "20"
+    ],
+    "dermal": [
+        "13"
+    ],
     "larynx": [],
     "muscles": [],
     "questionnaires": [
         "2",
-        "8"
+        "8",
+        "11",
+        "13",
+        "14",
+        "17",
+        "20"
     ],
     "nasa-tlx": [
         "4",
         "6",
-        "10"
+        "10",
+        "14",
+        "15",
+        "19"
     ],
     "electroencephalography": [],
     "functional magnetic resonance imaging": [
-        "9"
+        "9",
+        "12",
+        "15"
     ],
     "functional near-infrared spectroscopy": [
         "5"
@@ -78,7 +106,9 @@
     "electrocardiography": [
         "4"
     ],
-    "photoplethysmography": [],
+    "photoplethysmography": [
+        "17"
+    ],
     "respiration": [],
     "thermal": [],
     "skin conductance": [],
@@ -91,19 +121,32 @@
     "electromyography": [],
     "frequencies": [],
     "event-related potentials": [],
-    "hemodynamic response": [],
-    "electromagnetic changes": [],
+    "hemodynamic response": [
+        "5",
+        "12",
+        "15"
+    ],
+    "electromagnetic changes": [
+        "9"
+    ],
     "pupil diameter": [
-        "3"
+        "3",
+        "16",
+        "19"
     ],
     "saccades": [],
     "eye blinks": [],
     "fixations": [],
     "occular movements": [],
-    "heart rate": [],
+    "heart rate": [
+        "17",
+        "20"
+    ],
     "temperature": [],
     "number of errors": [],
-    "electrodermal activity": [],
+    "electrodermal activity": [
+        "13"
+    ],
     "task completion time": [],
     "task accuracy": [],
     "reaction time": [],
@@ -123,6 +166,7 @@
     "cortisol": [],
     "meta": [
         "1",
-        "7"
+        "7",
+        "18"
     ]
 }
