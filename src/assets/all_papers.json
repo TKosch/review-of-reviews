@@ -146,7 +146,7 @@
         "year": "2011",
         "venue": "CHI",
         "tags": [
-            "functional magnetic resonance imaging",
+            "functional near-infrared spectroscopy",
             "CHI",
             "cerebral",
             "hemodynamic response"
@@ -188,7 +188,7 @@
         "venue": "CHI",
         "tags": [
             "nasa-tlx",
-            "functional magnetic resonance imaging",
+            "functional near-infrared spectroscopy",
             "hemodynamic response",
             "CHI"
         ]
@@ -284,7 +284,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "functional magnetic resonance imaging",
+            "functional near-infrared spectroscopy",
             "CHI",
             "cerebral",
             "hemodynamic response"
@@ -299,7 +299,7 @@
         "venue": "CHI",
         "tags": [
             "nasa-tlx",
-            "functional magnetic resonance imaging",
+            "functional near-infrared spectroscopy",
             "CHI",
             "hemodynamic response"
         ]
@@ -1321,7 +1321,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1381,7 +1381,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "questionnaire (custom)",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1477,7 +1477,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1537,7 +1537,9 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "fnirs",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
             "CHI"
         ]
     },
@@ -1621,7 +1623,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1717,7 +1719,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1753,7 +1755,7 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1777,7 +1779,7 @@
         "year": "2010",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1789,7 +1791,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnairs",
             "CHI"
         ]
     },
@@ -1801,7 +1803,10 @@
         "year": "2013",
         "venue": "CHI",
         "tags": [
-            "fnirs + nasa-tlx",
+            "nasa-tlx",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
             "CHI"
         ]
     },
@@ -1813,7 +1818,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1825,7 +1830,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "interview",
+            "task performance",
             "CHI"
         ]
     },
@@ -1837,7 +1842,7 @@
         "year": "2010",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1909,7 +1914,7 @@
         "year": "2010",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1945,7 +1950,10 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx + fnirs",
+            "nasa-tlx",
+            "cerebral",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
             "CHI"
         ]
     },
