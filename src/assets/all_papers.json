@@ -414,7 +414,7 @@
         "year": "2006",
         "venue": "CHI",
         "tags": [
-            "performance",
+            "task performance",
             "CHI"
         ]
     },
@@ -426,7 +426,7 @@
         "year": "2007",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -438,7 +438,7 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -450,7 +450,7 @@
         "year": "2013",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -462,7 +462,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -474,7 +474,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "performance (TCT, accuracy)",
+            "task performance",
             "CHI"
         ]
     },
@@ -486,7 +486,9 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "eeg",
+            "electroencephalography",
+            "cerebral",
+            "frequencies",
             "CHI"
         ]
     },
@@ -498,7 +500,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -510,7 +512,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -522,7 +524,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -534,7 +536,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -546,7 +548,10 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + eeg",
+            "nasa-tlx",
+            "cerebral",
+            "electroencephalography",
+            "frequencies",
             "CHI"
         ]
     },
@@ -558,7 +563,10 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "custom questionnaire + eeg",
+            "questionnaires",
+            "electroencephalography",
+            "frequencies",
+            "cerebral",
             "CHI"
         ]
     },
@@ -570,7 +578,9 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + gaze (pupil dilation)",
+            "nasa-tlx",
+            "ocular",
+            "pupil diameter",
             "CHI"
         ]
     },
@@ -582,7 +592,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -594,7 +604,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -606,7 +616,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -618,7 +628,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -630,7 +640,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "custom questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -642,7 +652,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -654,7 +664,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -666,7 +676,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -678,7 +688,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -690,7 +700,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -702,7 +712,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -714,7 +724,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -726,7 +736,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -738,7 +748,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -750,7 +760,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -762,7 +772,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -774,7 +784,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -786,7 +796,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -798,7 +808,8 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "gaze",
+            "ocular",
+            "saccades",
             "CHI"
         ]
     },
@@ -810,7 +821,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -822,7 +833,8 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + custom questionnaire",
+            "nasa-tlx",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -834,7 +846,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -846,7 +858,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -858,7 +870,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -870,7 +882,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -882,7 +894,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -894,7 +906,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -906,7 +918,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -918,7 +930,7 @@
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -930,8 +942,10 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "questionnaire + task performance",
-            "CHI"
+            "questionnaires",
+            "task performance",
+            "CHI",
+            "number of errors"
         ]
     },
     "75": {
@@ -942,8 +956,12 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "eeg + nasa-nasa-tlx (adapted) + taks performance",
-            "CHI"
+            "cerebral",
+            "electroencephalography",
+            "nasa-tlx",
+            "task performance",
+            "CHI",
+            "frequencies"
         ]
     },
     "76": {
@@ -954,7 +972,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -966,7 +984,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -979,7 +997,8 @@
         "venue": "CHI",
         "tags": [
             "task performance",
-            "CHI"
+            "CHI",
+            "real-time self report"
         ]
     },
     "79": {
@@ -990,7 +1009,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1002,7 +1021,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1014,7 +1033,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1026,7 +1045,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1038,7 +1057,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1050,7 +1069,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1062,7 +1081,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1074,7 +1093,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1086,7 +1105,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1098,7 +1117,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1110,7 +1129,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1122,7 +1141,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1134,7 +1153,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1146,7 +1165,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1158,7 +1177,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1170,7 +1189,7 @@
         "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1182,7 +1201,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1194,7 +1213,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1206,7 +1225,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1218,7 +1237,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1230,7 +1249,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1242,7 +1261,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1254,7 +1273,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1266,7 +1285,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1278,7 +1297,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -1290,7 +1309,7 @@
         "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1314,7 +1333,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1326,7 +1345,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1338,7 +1357,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1350,7 +1369,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1374,7 +1393,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1386,7 +1405,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1398,7 +1417,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1410,7 +1429,7 @@
         "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1422,7 +1441,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1434,7 +1453,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1446,7 +1465,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1470,7 +1489,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1482,7 +1501,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1494,7 +1513,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1506,7 +1525,7 @@
         "year": "2016",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1530,7 +1549,7 @@
         "year": "2010",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1542,7 +1561,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1554,7 +1573,7 @@
         "year": "2011",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1566,7 +1585,7 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1578,7 +1597,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1590,7 +1609,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1614,7 +1633,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1626,7 +1645,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1638,7 +1657,7 @@
         "year": "2013",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1650,7 +1669,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1662,7 +1681,7 @@
         "year": "2013",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1674,7 +1693,7 @@
         "year": "2010",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1686,7 +1705,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1710,7 +1729,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1722,7 +1741,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1746,7 +1765,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1782,7 +1801,7 @@
         "year": "2013",
         "venue": "CHI",
         "tags": [
-            "fnirs + nasa-nasa-tlx",
+            "fnirs + nasa-tlx",
             "CHI"
         ]
     },
@@ -1830,7 +1849,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1842,7 +1861,7 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1854,7 +1873,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1866,7 +1885,7 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1878,7 +1897,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1902,7 +1921,7 @@
         "year": "2011",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1914,7 +1933,7 @@
         "year": "2014",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1926,7 +1945,7 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx + fnirs",
+            "nasa-tlx + fnirs",
             "CHI"
         ]
     },
@@ -1962,7 +1981,7 @@
         "year": "2013",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1986,7 +2005,7 @@
         "year": "2003",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -1998,7 +2017,7 @@
         "year": "2006",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2010,7 +2029,7 @@
         "year": "2005",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2034,7 +2053,7 @@
         "year": "2009",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2046,7 +2065,7 @@
         "year": "2008",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2058,7 +2077,7 @@
         "year": "2008",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2094,7 +2113,7 @@
         "year": "2009",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2106,7 +2125,7 @@
         "year": "2007",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2118,7 +2137,7 @@
         "year": "2003",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2130,7 +2149,7 @@
         "year": "2007",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2142,7 +2161,7 @@
         "year": "1994",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2154,7 +2173,7 @@
         "year": "1999",
         "venue": "CHI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "CHI"
         ]
     },
@@ -2178,7 +2197,7 @@
         "year": "2018",
         "venue": "UbiComp",
         "tags": [
-            "hrv + eda + heart rate + temperature (skin) + questionnaire + nasa-nasa-tlx",
+            "hrv + eda + heart rate + temperature (skin) + questionnaire + nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2202,7 +2221,7 @@
         "year": "2015",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2214,7 +2233,7 @@
         "year": "2016",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2238,7 +2257,7 @@
         "year": "2014",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2250,7 +2269,7 @@
         "year": "2015",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2274,7 +2293,7 @@
         "year": "2015",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2286,7 +2305,7 @@
         "year": "2019",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx + thermal imaging + gaze",
+            "nasa-tlx + thermal imaging + gaze",
             "UbiComp"
         ]
     },
@@ -2310,7 +2329,7 @@
         "year": "2019",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2334,7 +2353,7 @@
         "year": "2017",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2346,7 +2365,7 @@
         "year": "2018",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2358,7 +2377,7 @@
         "year": "2019",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2370,7 +2389,7 @@
         "year": "2018",
         "venue": "UbiComp",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2430,7 +2449,7 @@
         "year": "2009",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx + hrv",
+            "nasa-tlx + hrv",
             "IUI"
         ]
     },
@@ -2502,7 +2521,7 @@
         "year": "2011",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2514,7 +2533,7 @@
         "year": "2016",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2526,7 +2545,7 @@
         "year": "2018",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2538,7 +2557,7 @@
         "year": "2019",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2562,7 +2581,7 @@
         "year": "2017",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2574,7 +2593,7 @@
         "year": "2019",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2586,7 +2605,7 @@
         "year": "2019",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2598,7 +2617,7 @@
         "year": "2017",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2610,7 +2629,7 @@
         "year": "2018",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2622,7 +2641,7 @@
         "year": "2020",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2634,7 +2653,7 @@
         "year": "2020",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2658,7 +2677,7 @@
         "year": "2017",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
@@ -2670,7 +2689,7 @@
         "year": "2019",
         "venue": "IUI",
         "tags": [
-            "nasa-nasa-tlx",
+            "nasa-tlx",
             "IUI"
         ]
     },
