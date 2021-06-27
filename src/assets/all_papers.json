@@ -2218,6 +2218,7 @@
             "heart rate",
             "respiration",
             "temperature",
+            "thermal",
             "dermal",
             "electrodermal activity",
             "UbiComp"
@@ -2231,7 +2232,12 @@
         "year": "2018",
         "venue": "UbiComp",
         "tags": [
-            "hrv + eda + heart rate + temperature (skin) + questionnaire + nasa-tlx",
+            "cardiovascular",
+            "heart rate",
+            "temperature",
+            "thermal",
+            "questionnaires",
+            "nasa-tlx",
             "UbiComp"
         ]
     },
@@ -2243,7 +2249,8 @@
         "year": "2017",
         "venue": "UbiComp",
         "tags": [
-            "gaze (pupil)",
+            "ocular",
+            "pupil diameter",
             "UbiComp"
         ]
     },
@@ -2279,7 +2286,7 @@
         "year": "2015",
         "venue": "UbiComp",
         "tags": [
-            "questionnaire (dali)",
+            "questionnaires",
             "UbiComp"
         ]
     },
@@ -2315,7 +2322,7 @@
         "year": "2012",
         "venue": "UbiComp",
         "tags": [
-            "custom interview questions",
+            "questionnaires",
             "UbiComp"
         ]
     },
@@ -2339,7 +2346,11 @@
         "year": "2019",
         "venue": "UbiComp",
         "tags": [
-            "nasa-tlx + thermal imaging + gaze",
+            "nasa-tlx",
+            "thermal",
+            "temperature",
+            "ocular",
+            "fixations",
             "UbiComp"
         ]
     },
@@ -2351,7 +2362,8 @@
         "year": "2017",
         "venue": "UbiComp",
         "tags": [
-            "thermal imaging",
+            "thermal",
+            "temperature",
             "UbiComp"
         ]
     },
@@ -2375,7 +2387,8 @@
         "year": "2019",
         "venue": "UbiComp",
         "tags": [
-            "questionnaire (ACE-III) + touch gestures",
+            "questionnaires",
+            "touch input",
             "UbiComp"
         ]
     },
@@ -2435,7 +2448,10 @@
         "year": "2013",
         "venue": "IUI",
         "tags": [
-            "gaze",
+            "ocular",
+            "pupil diameter",
+            "saccades",
+            "eye blinks",
             "IUI"
         ]
     },
@@ -2447,7 +2463,8 @@
         "year": "2011",
         "venue": "IUI",
         "tags": [
-            "haptic + questionnaire",
+            "questionnaires",
+            "linguistic features",
             "IUI"
         ]
     },
@@ -2459,7 +2476,10 @@
         "year": "2011",
         "venue": "IUI",
         "tags": [
-            "gaze",
+            "ocular",
+            "pupil diameter",
+            "saccades",
+            "eye blinks",
             "IUI"
         ]
     },
@@ -2471,7 +2491,8 @@
         "year": "2013",
         "venue": "IUI",
         "tags": [
-            "gaze",
+            "ocular",
+            "pupil diameter",
             "IUI"
         ]
     },
@@ -2483,7 +2504,9 @@
         "year": "2009",
         "venue": "IUI",
         "tags": [
-            "nasa-tlx + hrv",
+            "nasa-tlx",
+            "heart rate",
+            "cardiovascular",
             "IUI"
         ]
     },
