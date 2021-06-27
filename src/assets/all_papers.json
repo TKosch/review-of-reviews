@@ -1965,7 +1965,9 @@
         "year": "2011",
         "venue": "CHI",
         "tags": [
-            "fnirs",
+            "cerebral",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
             "CHI"
         ]
     },
@@ -1977,7 +1979,9 @@
         "year": "2012",
         "venue": "CHI",
         "tags": [
-            "eeg",
+            "electroencephalography",
+            "cerebral",
+            "frequencies",
             "CHI"
         ]
     },
@@ -2001,7 +2005,17 @@
         "year": "2015",
         "venue": "CHI",
         "tags": [
-            "eeg + eda + gaze + heart rate (PPG) + temperature",
+            "electroencephalography",
+            "cerebral",
+            "frequencies",
+            "dermal",
+            "electrodermal activity",
+            "ocular",
+            "eye blinks",
+            "cardiovascular",
+            "heart rate",
+            "photoplethysmography",
+            "temperature",
             "CHI"
         ]
     },
@@ -2049,7 +2063,7 @@
         "year": "2008",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -2097,7 +2111,7 @@
         "year": "2006",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -2109,7 +2123,7 @@
         "year": "2006",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CHI"
         ]
     },
@@ -2193,7 +2207,19 @@
         "year": "2010",
         "venue": "UbiComp",
         "tags": [
-            "eeg + gaze + ecg + temperature (heat flux) + heart rate + eda",
+            "electroencephalography",
+            "cerebral",
+            "frequencies",
+            "ocular",
+            "pupil diameter",
+            "saccades",
+            "eye blinks",
+            "electrocardiography",
+            "heart rate",
+            "respiration",
+            "temperature",
+            "dermal",
+            "electrodermal activity",
             "UbiComp"
         ]
     },
