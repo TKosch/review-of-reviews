@@ -5613,7 +5613,9 @@
         "year": "2015",
         "venue": "PETRA",
         "tags": [
-            "gaze",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
             "PETRA"
         ]
     },
@@ -5625,7 +5627,9 @@
         "year": "2014",
         "venue": "PETRA",
         "tags": [
-            "gaze",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
             "PETRA"
         ]
     },
@@ -5637,7 +5641,11 @@
         "year": "2015",
         "venue": "PETRA",
         "tags": [
-            "eeg + hrv",
+            "electroencephalography",
+            "cerebral",
+            "event-related potentials",
+            "cardiovascular",
+            "heart rate",
             "PETRA"
         ]
     },
@@ -5805,7 +5813,10 @@
         "year": "2019",
         "venue": "ISMAR",
         "tags": [
-            "hrv + eda",
+            "heart rate",
+            "cardiovascular",
+            "dermal",
+            "electrodermal activity",
             "ISMAR"
         ]
     },
@@ -5817,7 +5828,11 @@
         "year": "2013",
         "venue": "INTERACT",
         "tags": [
-            "gsr + gaze (blinks)",
+            "dermal",
+            "electrodermal activity",
+            "ocular",
+            "eye tracking",
+            "eye blinks",
             "INTERACT"
         ]
     },
@@ -5829,7 +5844,8 @@
         "year": "2013",
         "venue": "INTERACT",
         "tags": [
-            "gsr",
+            "dermal",
+            "electrodermal activity",
             "INTERACT"
         ]
     },
@@ -5841,7 +5857,12 @@
         "year": "2017",
         "venue": "INTERACT",
         "tags": [
-            "nasa-tlx + ecg (hrv) + performance (reaction time)",
+            "nasa-tlx",
+            "electrocardiography",
+            "cardiovascular",
+            "heart rate",
+            "task performance",
+            "reaction time",
             "INTERACT"
         ]
     },
@@ -5853,7 +5874,9 @@
         "year": "2011",
         "venue": "INTERACT",
         "tags": [
-            "eeg (frequencies)",
+            "cerebral",
+            "electroencephalography",
+            "frequencies",
             "INTERACT"
         ]
     },
@@ -5865,7 +5888,10 @@
         "year": "2011",
         "venue": "INTERACT",
         "tags": [
-            "questionnaire + gaze (pupil diameter)",
+            "questionnaires",
+            "ocular",
+            "pupil diameter",
+            "eye tracking",
             "INTERACT"
         ]
     },
@@ -5877,7 +5903,7 @@
         "year": "2011",
         "venue": "INTERACT",
         "tags": [
-            "",
+            "meta",
             "INTERACT"
         ]
     },
@@ -5889,7 +5915,10 @@
         "year": "2009",
         "venue": "INTERACT",
         "tags": [
-            "nasa-tlx + fnirs",
+            "nasa-tlx",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
             "INTERACT"
         ]
     },
@@ -5901,19 +5930,29 @@
         "year": "2009",
         "venue": "INTERACT",
         "tags": [
-            "gsr + respiration + ecg + temperature",
+            "dermal",
+            "electrodermal activity",
+            "respiration",
+            "cardiovascular",
+            "heart rate",
+            "electrocardiography",
+            "thermal",
             "INTERACT"
         ]
     },
     "467": {
         "id": "467",
         "link": "http://link.springer.com/chapter/10.1007/978-3-540-74800-7_39",
-        "author": "Daniel ChenJamie HartRoel Vertegaal",
+        "author": "Daniel ChenJamie Hart, Roel Vertegaal",
         "title": "Towards a Physiological Model of User Interruptability",
         "year": "2007",
         "venue": "INTERACT",
         "tags": [
-            "ecg (hrv) + emg",
+            "cardiovascular",
+            "heart rate",
+            "electrocardiography",
+            "body movement",
+            "muscle contraction",
             "INTERACT"
         ]
     },
@@ -5925,7 +5964,7 @@
         "year": "2009",
         "venue": "INTERACT",
         "tags": [
-            "",
+            "meta",
             "INTERACT"
         ]
     },
