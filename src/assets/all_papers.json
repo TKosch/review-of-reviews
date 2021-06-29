@@ -6000,7 +6000,8 @@
         "year": "2017",
         "venue": "INTERACT",
         "tags": [
-            "questionnaire (nasa-tlx, workload profile)",
+            "questionnaires",
+            "nasa-tlx",
             "INTERACT"
         ]
     },
@@ -6108,7 +6109,7 @@
         "year": "2017",
         "venue": "INTERACT",
         "tags": [
-            "questionnaire (rsme)",
+            "questionnaires",
             "INTERACT"
         ]
     },
@@ -6142,10 +6143,12 @@
         "author": "Bailey, Brian P.; Iqbal, Shamsi T.",
         "title": "Understanding Changes in Mental Workload During Execution of Goal-directed Tasks and Its Application for Interruption Management",
         "year": "2008",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
-            "gaze",
-            "ToCHI"
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "TOCHI"
         ]
     },
     "484": {
@@ -6154,10 +6157,12 @@
         "author": "Maior, Horia A.; Wilson, Max L.; Sharples, Sarah",
         "title": "Workload Alerts&#x02014;Using Physiological Measures of Mental Workload to Provide Feedback During Tasks",
         "year": "2018",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
-            "fnirs",
-            "ToCHI"
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
+            "TOCHI"
         ]
     },
     "485": {
@@ -6166,10 +6171,12 @@
         "author": "Treacy Solovey, Erin; Afergan, Daniel; Peck, Evan M.; Hincks, Samuel W.; Jacob, Robert J. K.",
         "title": "Designing Implicit Interfaces for Physiological Computing: Guidelines and Lessons Learned Using fNIRS",
         "year": "2015",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
-            "fnirs",
-            "ToCHI"
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
+            "TOCHI"
         ]
     },
     "486": {
@@ -6178,10 +6185,10 @@
         "author": "Burke, Moira; Hornof, Anthony; Nilsen, Erik; Gorman, Nicholas",
         "title": "High-cost Banner Blindness: Ads Increase Perceived Workload, Hinder Visual Search, and Are Forgotten",
         "year": "2005",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "487": {
@@ -6190,10 +6197,12 @@
         "author": "Crk, Igor; Kluthe, Timothy; Stefik, Andreas",
         "title": "Understanding programming expertise: An empirical study of phasic brain wave changes",
         "year": "2016",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
-            "eeg",
-            "ToCHI"
+            "electroencephalography",
+            "cerebral",
+            "frequencies",
+            "TOCHI"
         ]
     },
     "488": {
@@ -6202,10 +6211,10 @@
         "author": "Truschin, Sergej; Schermann, Michael; Goswami, Suparna; Krcmar, Helmut",
         "title": "Designing interfaces for multiple-goal environments: Experimental insights from in-Vehicle speech interfaces",
         "year": "2014",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "489": {
@@ -6214,10 +6223,10 @@
         "author": "Cai, Carrie J.; Ren, Anji; Miller, Robert C.",
         "title": "WaitSuite: Productive use of diverse waiting moments",
         "year": "2017",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "490": {
@@ -6226,10 +6235,10 @@
         "author": "Lunzer, Aran; Hornb\u00e6k, Kasper",
         "title": "Subjunctive interfaces: Extending applications to support parallel setup, viewing and control of alternative scenarios",
         "year": "2008",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "491": {
@@ -6238,10 +6247,10 @@
         "author": "Dai, Liwei; Sears, Andrew; Goldman, Rich",
         "title": "Shifting the focus from accuracy to recallability: A study of informal note-taking on mobile information technologies",
         "year": "2009",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "492": {
@@ -6250,10 +6259,10 @@
         "author": "Ducasse, Julie; Mac\u00e9, Marc; Oriola, Bernard; Jouffrais, Christophe",
         "title": "BotMap: Non-visual panning and zooming with an actuated tabletop tangible interface",
         "year": "2018",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "493": {
@@ -6262,10 +6271,10 @@
         "author": "Menges, Raphael; Kumar, Chandan; Staab, Steffen",
         "title": "Improving user experience of eye tracking-based interaction: Introspecting and adapting interfaces",
         "year": "2019",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "494": {
@@ -6274,10 +6283,10 @@
         "author": "Seaborn, Katie; Edey, Jamal; Dolinar, Gregory; Whitfield, Margot; Gardner, Paula; Branje, Carmen; Fels, Deborah I.",
         "title": "Accessible play in everyday spaces: Mixed reality gaming for adult powered chair users",
         "year": "2016",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "495": {
@@ -6286,10 +6295,10 @@
         "author": "Vazquez-Alvarez, Yolanda; Aylett, Matthew P.; Brewster, Stephen A.; Jungenfeld, Rocio Von; Virolainen, Antti",
         "title": "Designing interactions with multilevel auditory displays in mobile audio-augmented reality",
         "year": "2016",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "496": {
@@ -6298,10 +6307,10 @@
         "author": "Lakier, Matthew; Annett, Michelle; Wigdor, Daniel",
         "title": "Automatics: Dynamically generating fabrication tasks to adapt to varying contexts",
         "year": "2018",
-        "venue": "ToCHI",
+        "venue": "TOCHI",
         "tags": [
             "nasa-tlx",
-            "ToCHI"
+            "TOCHI"
         ]
     },
     "497": {
@@ -6312,7 +6321,12 @@
         "year": "2013",
         "venue": "PUC",
         "tags": [
-            "questionnaire + ecg + salvia",
+            "questionnaires",
+            "electrocardiography",
+            "cardiovascular",
+            "heart rate",
+            "saliva",
+            "cortisol",
             "PUC"
         ]
     },
@@ -6324,7 +6338,7 @@
         "year": "2016",
         "venue": "PUC",
         "tags": [
-            "gaze",
+            "meta",
             "PUC"
         ]
     },
@@ -6348,7 +6362,10 @@
         "year": "2003",
         "venue": "IJHCS",
         "tags": [
-            "questionnaire + gaze (pupil diameter)",
+            "questionnaires",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
             "IJHCS"
         ]
     },
@@ -6360,7 +6377,7 @@
         "year": "2004",
         "venue": "IJHCS",
         "tags": [
-            "",
+            "meta",
             "IJHCS"
         ]
     },
@@ -6372,7 +6389,8 @@
         "year": "2006",
         "venue": "IJHCS",
         "tags": [
-            "performance (reaction time in dual task technique)",
+            "task performance",
+            "reaction time",
             "IJHCS"
         ]
     },
@@ -6384,7 +6402,11 @@
         "year": "2013",
         "venue": "IJHCS",
         "tags": [
-            "questionnaire + gsr + ecg",
+            "questionnaires",
+            "dermal",
+            "electrodermal activity",
+            "electrocardiography",
+            "heart rate",
             "IJHCS"
         ]
     },
@@ -6396,7 +6418,9 @@
         "year": "2015",
         "venue": "IJHCS",
         "tags": [
-            "gaze (pupil diameter)",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
             "IJHCS"
         ]
     },
@@ -6408,7 +6432,9 @@
         "year": "2015",
         "venue": "IJHCS",
         "tags": [
-            "performance (key-stroke, linguistics)",
+            "task performance",
+            "keystroke dynamics",
+            "language production",
             "IJHCS"
         ]
     },
@@ -6420,7 +6446,12 @@
         "year": "2017",
         "venue": "IJHCS",
         "tags": [
-            "nasa-tlx + gaze (fixations) + performance (tct)",
+            "nasa-tlx",
+            "ocular",
+            "cerebral",
+            "fixations",
+            "task performance",
+            "task completion time",
             "IJHCS"
         ]
     },
@@ -6432,7 +6463,10 @@
         "year": "2017",
         "venue": "IJHCS",
         "tags": [
-            "performance (key-Stroke, linguistics) + nasa-tlx",
+            "task performance",
+            "keystroke dynamics",
+            "language production",
+            "nasa-tlx",
             "IJHCS"
         ]
     },
@@ -6444,7 +6478,10 @@
         "year": "2018",
         "venue": "IJHCS",
         "tags": [
-            "eeg + questionnaire",
+            "electroencephalography",
+            "cerebral",
+            "frequencies",
+            "questionnaires",
             "IJHCS"
         ]
     },
@@ -6456,7 +6493,9 @@
         "year": "2019",
         "venue": "IJHCS",
         "tags": [
-            "speech (utterance features from openSMILE)",
+            "larynx",
+            "speech",
+            "linguistic features",
             "IJHCS"
         ]
     },
@@ -6468,7 +6507,14 @@
         "year": "2003",
         "venue": "IJHCS",
         "tags": [
-            "questionnaire (rsme) + gaze (fixation, pupil diameter) + performance (tct, task accuracy)",
+            "questionnaires",
+            "ocular",
+            "eye tracking",
+            "fixations",
+            "pupil diameter",
+            "task performance",
+            "task completion time",
+            "task accuracy",
             "IJHCS"
         ]
     },
@@ -6576,7 +6622,9 @@
         "year": "2018",
         "venue": "IJHCS",
         "tags": [
-            "nasa-tlx + performance (dual task, reaction time)",
+            "nasa-tlx",
+            "task performance",
+            "reaction time",
             "IJHCS"
         ]
     },
@@ -6624,7 +6672,7 @@
         "year": "2019",
         "venue": "IJHCS",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IJHCS"
         ]
     },
@@ -6636,7 +6684,9 @@
         "year": "2018",
         "venue": "IJHCI",
         "tags": [
-            "ppg (sVRI)",
+            "heart rate",
+            "cardiovascular",
+            "photoplethysmography",
             "IJHCI"
         ]
     },
@@ -6648,7 +6698,10 @@
         "year": "2013",
         "venue": "IJHCI",
         "tags": [
-            "nasa-tlx + gaze (pupil diameter)",
+            "nasa-tlx",
+            "pupil diameter",
+            "ocular",
+            "eye tracking",
             "IJHCI"
         ]
     },
@@ -6660,7 +6713,8 @@
         "year": "2014",
         "venue": "IJHCI",
         "tags": [
-            "linguistic + questionnaire",
+            "questionnaires",
+            "linguistic features",
             "IJHCI"
         ]
     },
@@ -6672,7 +6726,12 @@
         "year": "2016",
         "venue": "IJHCI",
         "tags": [
-            "nasa-tlx + gaze (saccadic intrusion, blinks, pupil dilation, ICA)",
+            "nasa-tlx",
+            "ocular",
+            "eye tracking",
+            "saccades",
+            "eye blinks",
+            "pupil diameter",
             "IJHCI"
         ]
     },
@@ -6684,7 +6743,9 @@
         "year": "2004",
         "venue": "IJHCI",
         "tags": [
-            "fnirs",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
             "IJHCI"
         ]
     },
@@ -6708,7 +6769,9 @@
         "year": "2016",
         "venue": "IJHCI",
         "tags": [
-            "gaze (pupil diameter)",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
             "IJHCI"
         ]
     },
@@ -6720,7 +6783,20 @@
         "year": "2004",
         "venue": "IJHCI",
         "tags": [
-            "fnirs + eeg (frequencies?, erp) + heart rate + gsr + gaze (pupil diameter) + keystrokes + posture",
+            "functional near-infrared spectroscopy",
+            "cerebral",
+            "hemodynamic response",
+            "electroencephalography",
+            "event-related potentials",
+            "cardiovascular",
+            "heart rate",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "task performance",
+            "keystroke dynamics",
+            "body movement",
+            "postural behavior and gestures",
             "IJHCI"
         ]
     },
@@ -6732,7 +6808,11 @@
         "year": "2015",
         "venue": "IJHCI",
         "tags": [
-            "gaze (pupil diameter + \"frequencies\") + nasa-tlx + questionnaire",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "nasa-tlx",
+            "questionnaires",
             "IJHCI"
         ]
     },
@@ -6744,7 +6824,9 @@
         "year": "2004",
         "venue": "IJHCI",
         "tags": [
-            "eeg (erp)",
+            "cerebral",
+            "electroencephalography",
+            "event-related potentials",
             "IJHCI"
         ]
     },
@@ -6756,7 +6838,7 @@
         "year": "2004",
         "venue": "IJHCI",
         "tags": [
-            "",
+            "meta",
             "IJHCI"
         ]
     },
@@ -6768,7 +6850,10 @@
         "year": "2017",
         "venue": "IJHCI",
         "tags": [
-            "eeg (erp, frequencies)",
+            "cerebral",
+            "frequencies",
+            "event-related potentials",
+            "electroencephalography",
             "IJHCI"
         ]
     },
@@ -6780,7 +6865,9 @@
         "year": "2000",
         "venue": "IJHCI",
         "tags": [
-            "eeg (frequencies)",
+            "cerebral",
+            "frequencies",
+            "electroencephalography",
             "IJHCI"
         ]
     },
@@ -6792,7 +6879,10 @@
         "year": "2018",
         "venue": "IJHCI",
         "tags": [
-            "gaze (pupil dilation) + nasa-tlx",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "nasa-tlx",
             "IJHCI"
         ]
     },
@@ -6804,7 +6894,10 @@
         "year": "2019",
         "venue": "IJHCI",
         "tags": [
-            "nasa-tlx + gaze (pupil dilation)",
+            "nasa-tlx",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
             "IJHCI"
         ]
     },
@@ -6816,7 +6909,10 @@
         "year": "2019",
         "venue": "IJHCI",
         "tags": [
-            "gaze (pupil dilation, blinks)",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "eye blinks",
             "IJHCI"
         ]
     },
@@ -6960,7 +7056,7 @@
         "year": "2019",
         "venue": "IJHCI",
         "tags": [
-            "",
+            "meta",
             "IJHCI"
         ]
     },
@@ -6972,7 +7068,7 @@
         "year": "1986",
         "venue": "CACM",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "CACM"
         ]
     },
@@ -6982,10 +7078,12 @@
         "author": "Chen, S.; Epps, J.",
         "title": "Blinking: Toward Wearable Computing that Understands your Current Task",
         "year": "2013",
-        "venue": "PervComp",
+        "venue": "Pervasive Computing",
         "tags": [
-            "gaze",
-            "PervComp"
+            "ocular",
+            "eye tracking",
+            "eye blinks",
+            "Pervasive Computing"
         ]
     },
     "554": {
@@ -6994,10 +7092,16 @@
         "author": "Amft, O.; Wahl, F.; Ishimaru, S.; Kunze, K.",
         "title": "Making Regular Eyeglasses Smart",
         "year": "2015",
-        "venue": "PervComp",
+        "venue": "Pervasive Computing",
         "tags": [
-            "gaze (pupil diameter, blink frequency) + fnirs",
-            "PervComp"
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "eye blinks",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
+            "Pervasive Computing"
         ]
     },
     "555": {
@@ -7006,10 +7110,11 @@
         "author": "Boll, S.; Asif, A.; Heuten, W.",
         "title": "Feel your route: a tactile display for car navigation",
         "year": "2011",
-        "venue": "PervComp",
+        "venue": "Pervasive Computing",
         "tags": [
-            "performance",
-            "PervComp"
+            "task performance",
+            "number of errors",
+            "Pervasive Computing"
         ]
     },
     "556": {
@@ -7018,10 +7123,10 @@
         "author": "Wang, L.; Gu, T.; Liu, A. X.; Yao, H.; Tao, X.; Lu, J.",
         "title": "Assessing user mental workload for smartphone applications with built-in sensors",
         "year": "2019",
-        "venue": "PervComp",
+        "venue": "Pervasive Computing",
         "tags": [
-            "touch (tap strength)",
-            "PervComp"
+            "touch input",
+            "Pervasive Computing"
         ]
     },
     "557": {
@@ -7030,10 +7135,16 @@
         "author": "Pejovi\u0107, V.; Gjoreski, M.; Anderson, C.; David, K.; Lu\u0161trek, M.",
         "title": "Toward cognitive load inference for attention management in ubiquitous systems",
         "year": "2020",
-        "venue": "PervComp",
+        "venue": "Pervasive Computing",
         "tags": [
-            "nasa-tlx + hrv + gsr + skin temperature + respiration",
-            "PervComp"
+            "nasa-tlx",
+            "heart rate",
+            "cardiovascular",
+            "dermal",
+            "electrodermal activity",
+            "thermal",
+            "respiration",
+            "Pervasive Computing"
         ]
     },
     "558": {
@@ -7044,7 +7155,12 @@
         "year": "2015",
         "venue": "Computer",
         "tags": [
-            "gaze (pupil diameter) + eeg (csp)",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "cerebral",
+            "electroencephalography",
+            "frequencies",
             "Computer"
         ]
     },
@@ -7056,7 +7172,9 @@
         "year": "2015",
         "venue": "Computer",
         "tags": [
-            "fnirs",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
             "Computer"
         ]
     },
@@ -7068,7 +7186,18 @@
         "year": "2014",
         "venue": "IwC",
         "tags": [
-            "face images + gaze + ecg + eda + respiration",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "saccades",
+            "eye blinks",
+            "fixations",
+            "cardiovascular",
+            "heart rate",
+            "electrocardiography",
+            "dermal",
+            "electrodermal activity",
+            "respiration",
             "IwC"
         ]
     },
@@ -7080,7 +7209,7 @@
         "year": "2018",
         "venue": "IwC",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IwC"
         ]
     },
@@ -7092,7 +7221,11 @@
         "year": "2015",
         "venue": "IwC",
         "tags": [
-            "questionnaire +  nasa-tlx + fnirs",
+            "questionnaires",
+            "nasa-tlx",
+            "functional near-infrared spectroscopy",
+            "hemodynamic response",
+            "cerebral",
             "IwC"
         ]
     },
@@ -7104,7 +7237,7 @@
         "year": "2014",
         "venue": "IwC",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IwC"
         ]
     },
@@ -7116,7 +7249,7 @@
         "year": "2017",
         "venue": "IwC",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IwC"
         ]
     },
@@ -7128,7 +7261,7 @@
         "year": "2014",
         "venue": "IwC",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IwC"
         ]
     },
@@ -7140,7 +7273,7 @@
         "year": "2010",
         "venue": "IwC",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IwC"
         ]
     },
@@ -7152,7 +7285,9 @@
         "year": "2007",
         "venue": "IwC",
         "tags": [
-            "gaze (pupillary response)",
+            "ocular",
+            "cerebral",
+            "pupil diameter",
             "IwC"
         ]
     },
@@ -7164,7 +7299,8 @@
         "year": "2016",
         "venue": "IwC",
         "tags": [
-            "questionnaire + nasa-tlx + sus",
+            "questionnaires",
+            "nasa-tlx",
             "IwC"
         ]
     },
@@ -7176,7 +7312,11 @@
         "year": "2008",
         "venue": "IwC",
         "tags": [
-            "questionnaire + nasa-tlx + gaze + ecg + body (\"eye-hand-metrics\")",
+            "questionnaires",
+            "nasa-tlx",
+            "electrocardiography",
+            "cardiovascular",
+            "heart rate",
             "IwC"
         ]
     },
@@ -7188,7 +7328,23 @@
         "year": "2015",
         "venue": "IwC",
         "tags": [
-            "questionnaire + nasa-tlx +  task performance + eeg + ecg + eda + respiration + temperature + gaze",
+            "questionnaires",
+            "nasa-tlx",
+            "task performance",
+            "task completion time",
+            "cerebral",
+            "electroencephalography",
+            "frequencies",
+            "event-related potentials",
+            "dermal",
+            "electrodermal activity",
+            "respiration",
+            "thermal",
+            "ocular",
+            "eye tracking",
+            "saccades",
+            "eye blinks",
+            "fixations",
             "IwC"
         ]
     },
@@ -7200,7 +7356,7 @@
         "year": "2011",
         "venue": "IwC",
         "tags": [
-            "questionnaire",
+            "questionnaires",
             "IwC"
         ]
     },
@@ -7212,7 +7368,7 @@
         "year": "2004",
         "venue": "IwC",
         "tags": [
-            "",
+            "meta",
             "IwC"
         ]
     },
@@ -7224,7 +7380,7 @@
         "year": "2009",
         "venue": "IwC",
         "tags": [
-            "",
+            "meta",
             "IwC"
         ]
     },
@@ -7236,7 +7392,7 @@
         "year": "2012",
         "venue": "IwC",
         "tags": [
-            "",
+            "meta",
             "IwC"
         ]
     },
@@ -7248,7 +7404,8 @@
         "year": "2012",
         "venue": "IwC",
         "tags": [
-            "questionnaire + nasa-tlx",
+            "questionnaires",
+            "nasa-tlx",
             "IwC"
         ]
     },
@@ -7260,7 +7417,8 @@
         "year": "2014",
         "venue": "IwC",
         "tags": [
-            "questionnaire + nasa-tlx",
+            "questionnaires",
+            "nasa-tlx",
             "IwC"
         ]
     },
@@ -7272,7 +7430,10 @@
         "year": "2014",
         "venue": "JHCI",
         "tags": [
-            "gaze (pupil diameter, blink rate)",
+            "ocular",
+            "eye tracking",
+            "pupil diameter",
+            "eye blinks",
             "JHCI"
         ]
     },
