@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'pi-mapping'`, () => {
+  it(`should have as title 'cl-paper-library'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('pi-mapping');
+    expect(app.title).toEqual('cl-paper-library');
   });
 
   it('should render title in a h1 tag', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to pi-mapping!');
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to cl-paper-library!');
   });
 });
