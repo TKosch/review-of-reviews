@@ -1,2 +1,0 @@
-ng build --prod
-npx ngh --dir dist/pi-mapping --cname=personal-informatics.depstein.net
