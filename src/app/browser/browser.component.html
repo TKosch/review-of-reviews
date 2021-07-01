@@ -1,27 +1,28 @@
 <div class="row search-box">
-	<!-- <div class="col-3 d-none d-md-block">
-		Include articles since <a href="https://depstein.net/assets/pubs/depstein_imwut20.pdf" target="_new">mapping review</a>?
+	<div class="col-3 d-none d-md-block">
+		<!--Include articles since <a href="https://depstein.net/assets/pubs/depstein_imwut20.pdf" target="_new">mapping review</a>?
 		<label class="switch">
 			<input type="checkbox" [(ngModel)]="showNewArticles" (ngModelChange)="check()">
 			<span class="slider"></span>
-		</label>
-	</div> -->
-	<div class="col-xl-8 col-7 d-none d-md-block">
-		<input class="form-control search" type="text" [(ngModel)]="search" (ngModelChange)="searchFor()"
-			placeholder="Search Articles ...">
+		</label>-->
+	</div> 
+	<div class="col-xl-9 col-8 d-none d-md-block">
+		<input class="form-control search" type="search" [(ngModel)]="search" (ngModelChange)="searchFor()"
+			placeholder="Search for venues, organs, modalities, metrics, or authors...">
 	</div>
-	<div class="col-xl-1 col-2 d-none d-md-block">
+	<!--<div class="col-xl-1 col-2 d-none d-md-block">
 		<button class="btn btn-outline-secondary btn-block" type="button" (click)="clear()">Clear</button>
-	</div>
+	</div>-->
 </div>
 <div class="row">
 	<div class="col-3 d-none d-lg-block">
 		<div class="sidebar">
+			<p><strong>Filters</strong></p>
 			<div *ngFor="let code of codes">
 				<div *ngFor="let c of clusters[code]; let i=index">
 					<div *ngIf="i == 0">
-						<strong class="show" (click)="toggleHide(code)"> {{hidden[code] === true ? getName(code) :
-							getName(code) }}</strong>
+						<span class="show" (click)="toggleHide(code)"> {{hidden[code] === true ? getName(code) :
+							getName(code) }}</span>
 					</div>
 					<div class="fullwidth">
 						<label *ngIf="counts[c] && getName(c)" [for]="c" class="checkbox" id="checkbox-menu"

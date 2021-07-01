@@ -2,16 +2,21 @@
 	<div class="card-body">
 		<div class="row">
 			<div class="col-12">
-				{{author}}. <a [href]="link" target="_new">{{title}}</a>. {{venue}} ({{year}}).
+				<a [href]="link" target="_new" class="paper-title">{{title}}</a><br>
+				{{author}}.<em>  {{venue}} ({{year}})</em>.
 			</div>
-			<div class="col-12" *ngIf="!showId"><em>ID: </em>{{id}}</div>
-			<div class="col-12"><em>Tags: </em><span *ngFor="let tag of tags; let last=last"><label
+			<!--<div class="col-12" *ngIf="!showId"><em>ID: </em>{{id}}</div>-->
+			<div class="col-12">
+				<hr>
+				<div class="tags">
+				<span *ngFor="let tag of tags; let last=last"><label
 						class="badge badge-secondary" [for]="tag" *ngIf="getName(tag)">{{getName(tag)}}</label><span
 						*ngIf="getName(tag) && !last"> </span></span></div>
-			<div class="col-12">
+			
 				<a class="badge correction"
 					href="https://docs.google.com/forms/d/e/1FAIpQLSc2NuOR7SLSF7L6TaPiMYbOr5Rtv5VkNviO-LW0S5TcIQXnBg/viewform?entry.926150617={{id}}"
 					target="_new">Suggest a correction for this article</a>
+				
 			</div>
 		</div>
 	</div>
