@@ -33,643 +33,797 @@
     },
     "3": {
         "id": "3",
-        "link": "http://doi.acm.org/10.1145/1054972.1055016",
-        "author": "Iqbal, Shamsi T.; Adamczyk, Piotr D.; Zheng, Xianjun Sam; Bailey, Brian P.",
-        "title": "Towards an Index of Opportunity: Understanding Changes in Mental Workload During Task Execution",
-        "year": "2005",
+        "link": "http://doi.acm.org/10.1145/2858036.2858498",
+        "author": "Kelly  Caine",
+        "title": "Local Standards for Sample Size at CHI",
+        "year": "2016",
         "venue": "CHI",
         "tags": [
-            "pupil diameter",
             "CHI",
-            "ocular",
-            "eye tracking"
+            "2016",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Methodological"
         ]
     },
     "4": {
         "id": "4",
-        "link": "http://doi.acm.org/10.1145/1357054.1357187",
-        "author": "Grimes, David; Tan, Desney S.; Hudson, Scott E.; Shenoy, Pradeep; Rao, Rajesh P.N.",
-        "title": "Feasibility and Pragmatics of Classifying Working Memory Load with an Electroencephalograph",
-        "year": "2008",
+        "link": "http://doi.acm.org/10.1145/238386.238387",
+        "author": "Suzanne  Weisband and Sara  Kiesler",
+        "title": "Self Disclosure on Computer Forms: Meta-analysis and Implications",
+        "year": "1996",
         "venue": "CHI",
         "tags": [
-            "electroencephalography",
-            "frequencies",
-            "nasa-tlx",
             "CHI",
-            "cerebral"
+            "1996",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Methodological"
         ]
     },
     "5": {
         "id": "5",
-        "link": "http://doi.acm.org/10.1145/1518701.1519035",
-        "author": "Hirshfield, Leanne M.; Solovey, Erin Treacy; Girouard, Audrey; Kebinger, James; Jacob, Robert J.K.; Sassaroli, Angelo; Fantini, Sergio",
-        "title": "Brain Measurement for Usability Testing and Adaptive Interfaces: An Example of Uncovering Syntactic Workload with Functional Near Infrared Spectroscopy",
-        "year": "2009",
+        "link": "http://doi.acm.org/10.1145/800049.801782",
+        "author": "Bill  Curtis",
+        "title": "A Review of Human Factors Research on Programming Languages and Specifications",
+        "year": "1982",
         "venue": "CHI",
         "tags": [
-            "functional near-infrared spectroscopy",
-            "hemodynamic response",
-            "CHI"
+            "CHI",
+            "1982",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Theoretical"
         ]
     },
     "6": {
         "id": "6",
-        "link": "http://doi.acm.org/10.1145/1518701.1518952",
-        "author": "Takayama, Leila; Sison, Jo Ann G.; Lathrop, Brian; Wolfe, Nicholas; Chiang, Abe; Nielsen, Alexia; Nass, Clifford",
-        "title": "Bringing Design Considerations to the Mobile Phone and Driving Debate",
+        "link": "http://doi.acm.org/10.1145/1518701.1518803",
+        "author": "Tovi Grossman and George  Fitzmaurice and Ramtin  Attar",
+        "title": "A Survey of Software Learnability: Metrics, Methodologies and Guidelines",
         "year": "2009",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2009",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Methodological"
         ]
     },
     "7": {
         "id": "7",
-        "link": "http://doi.acm.org/10.1145/1518701.1518981",
-        "author": "Salvucci, Dario D.; Taatgen, Niels A.; Borst, Jelmer P.",
-        "title": "Toward a Unified Theory of the Multitasking Continuum: From Concurrent Performance to Task Switching, Interruption, and Resumption",
-        "year": "2009",
+        "link": "http://doi.acm.org/10.1145/1753326.1753629",
+        "author": "Jon  Froehlich and Leah  Findlater and James Landay",
+        "title": "The Design of Eco-feedback Technology",
+        "year": "2010",
         "venue": "CHI",
         "tags": [
-            "meta",
-            "CHI"
+            "CHI",
+            "2009",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Artifact"
         ]
     },
     "8": {
         "id": "8",
-        "link": "http://doi.acm.org/10.1145/1753326.1753518",
-        "author": "Iqbal, Shamsi T.; Ju, Yun-Cheng; Horvitz, Eric",
-        "title": "Cars, Calls, and Cognition: Investigating Driving and Divided Attention",
-        "year": "2010",
+        "link": "http://doi.acm.org/10.1145/1978942.1979336",
+        "author": "Javier A. Bargas-Avila and Kasper  Hornb&#230;k",
+        "title": "Old Wine in New Bottles or Novel Challenges: A Critical Analysis of Empirical Studies of User Experience",
+        "year": "2011",
         "venue": "CHI",
         "tags": [
-            "questionnaire",
-            "CHI"
+            "CHI",
+            "2011",
+            "Exclusion of Papers",
+            "QUOROM",
+            "ACM",
+            "Web of Science",
+            "ScienceDirect",
+            "Methodological"
         ]
     },
     "9": {
         "id": "9",
-        "link": "http://doi.acm.org/10.1145/1753326.1753454",
-        "author": "Sj\u00f6lie, Daniel; Bodin, Kenneth; Elgh, Eva; Eriksson, Johan; Janlert, Lars-Erik; Nyberg, Lars",
-        "title": "Effects of Interactivity and 3D-motion on Mental Rotation Brain Activity in an Immersive Virtual Environment",
-        "year": "2010",
+        "link": "http://doi.acm.org/10.1145/2207676.2207771",
+        "author": "James  Pierce and Eric  Paulos",
+        "title": "Beyond Energy Monitors: Interaction, Energy, and Emerging Energy Systems",
+        "year": "2012",
         "venue": "CHI",
         "tags": [
-            "functional magnetic resonance imaging",
             "CHI",
-            "electromagnetic changes",
-            "cerebral"
+            "2012",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Empirical"
         ]
     },
     "10": {
         "id": "10",
-        "link": "https://doi.org/10.1145/1978942.1979258",
-        "author": "Vazquez-Alvarez, Yolanda; Brewster, Stephen A.",
-        "title": "Eyes-free Multitasking: The Effect of Cognitive Load on Mobile Spatial Audio Interfaces",
-        "year": "2011",
+        "link": "https://doi.org/10.1145/2207676.2207781",
+        "author": "Majken K. Rasmussen and Esben W. Pedersen and Marianne G. Petersen and Kasper  Hornbæk",
+        "title": "Shape-changing Interfaces: A Review of the Design Space and Open Research Questions",
+        "year": "2012",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2012",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Artifact"
         ]
     },
     "11": {
         "id": "11",
-        "link": "http://doi.acm.org/10.1145/1978942.1979008",
-        "author": "Iqbal, Shamsi T.; Horvitz, Eric; Ju, Yun-Cheng; Mathews, Ella",
-        "title": "Hang on a Sec!: Effects of Proactive Mediation of Phone Conversations While Driving",
-        "year": "2011",
+        "link": "http://doi.acm.org/10.1145/2556288.2557078",
+        "author": "Elisa D. Mekler and Julia Ayumi Bopp and Alexandre N. Tuch and Klaus  Opwis",
+        "title": "A Systematic Review of Quantitative Studies on the Enjoyment of Digital Entertainment Games",
+        "year": "2014",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "CHI"
+            "CHI",
+            "2014",
+            "Exclusion of Papers",
+            "QUOROM",
+            "ACM",
+            "ScienceDirect",
+            "Web of Science",
+            "Empirical"
         ]
     },
     "12": {
         "id": "12",
-        "link": "http://doi.acm.org/10.1145/1978942.1978996",
-        "author": "Hirshfield, Leanne M.; Gulotta, Rebecca; Hirshfield, Stuart; Hincks, Sam; Russell, Matthew; Ward, Rachel; Williams, Tom; Jacob, Robert",
-        "title": "This is Your Brain on Interfaces: Enhancing Usability Testing with Functional Near-infrared Spectroscopy",
-        "year": "2011",
+        "link": "http://doi.acm.org/10.1145/2858036.2858081",
+        "author": "Nicola  Dell and Neha  Kumar",
+        "title": "The Ins and Outs of HCI for Development",
+        "year": "2016",
         "venue": "CHI",
         "tags": [
-            "functional near-infrared spectroscopy",
             "CHI",
-            "cerebral",
-            "hemodynamic response"
+            "2016",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Empirical"
         ]
     },
     "13": {
         "id": "13",
-        "link": "http://doi.acm.org/10.1145/2556288.2557068",
-        "author": "Solovey, Erin T.; Zec, Marin; Garcia Perez, Enrique Abdon; Reimer, Bryan; Mehler, Bruce",
-        "title": "Classifying Driver Workload Using Physiological and Driving Performance Data: Two Field Studies",
-        "year": "2014",
+        "link": "http://doi.acm.org/10.1145/3025453.3025696",
+        "author": "Ko-Le  Chen and Rachel  Clarke and Teresa  Almeida and Matthew  Wood and David S. Kirk",
+        "title": "Situated Dissemination Through an HCI Workplace",
+        "year": "2017",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "dermal",
-            "electrodermal activity",
-            "CHI"
+            "CHI",
+            "2017",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Methodological"
         ]
     },
     "14": {
         "id": "14",
-        "link": "http://doi.acm.org/10.1145/2556288.2557038",
-        "author": "Tan, Chiew Seng Sean; Sch\u00f6ning, Johannes; Luyten, Kris; Coninx, Karin",
-        "title": "Investigating the Effects of Using Biofeedback As Visual Stress Indicator During Video-mediated Collaboration",
-        "year": "2014",
+        "link": "http://doi.acm.org/10.1145/3025453.3025766",
+        "author": "Ari Schlesinger and W. Keith Edwards and Rebecca E. Grinter",
+        "title": "Intersectional HCI: Engaging Identity Through Gender, Race, and Class",
+        "year": "2017",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2017",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Methodological"
         ]
     },
     "15": {
         "id": "15",
-        "link": "http://doi.acm.org/10.1145/2556288.2556974",
-        "author": "Pike, Matthew F.; Maior, Horia A.; Porcheron, Martin; Sharples, Sarah C.; Wilson, Max L.",
-        "title": "Measuring the Effect of Think Aloud Protocols on Workload Using fNIRS",
-        "year": "2014",
+        "link": "http://doi.acm.org/10.1145/3025453.3025798",
+        "author": "Ville  Mäkelä; and Sumita  Sharma and Jaakko  Hakulinen and Tomi  Heimonen and Markku  Turunen",
+        "title": "Challenges in Public Display Deployments: A Taxonomy of External Factors",
+        "year": "2017",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "functional near-infrared spectroscopy",
-            "hemodynamic response",
-            "CHI"
+            "CHI",
+            "2017",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Empirical"
         ]
     },
     "16": {
         "id": "16",
-        "link": "http://doi.acm.org/10.1145/2556288.2557086",
-        "author": "Jiang, Xianta; Atkins, M. Stella; Tien, Geoffrey; Bednarik, Roman; Zheng, Bin",
-        "title": "Pupil Responses During Discrete Goal-directed Movements",
-        "year": "2014",
+        "link": "http://doi.acm.org/10.1145/3025453.3025808",
+        "author": "Tobias  Grosse-Puppendahl and Christian  Holz and Gabe  Cohn and Raphael  Wimmer and Oskar  Bechtold and Steve  Hodges and Matthew S. Reynolds and Joshua R. Smith",
+        "title": "Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction",
+        "year": "2017",
         "venue": "CHI",
         "tags": [
-            "ocular",
-            "eye tracking",
-            "pupil diameter",
-            "CHI"
+            "CHI",
+            "2017",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "IEEE",
+            "Artifact"
         ]
     },
     "17": {
         "id": "17",
-        "link": "http://doi.acm.org/10.1145/2702123.2702399",
-        "author": "Lyu, Yongqiang; Luo, Xiaomin; Zhou, Jun; Yu, Chun; Miao, Congcong; Wang, Tong; Shi, Yuanchun; Kameyama, Ken-ichi",
-        "title": "Measuring Photoplethysmogram-Based Stress-Induced Vascular Response Index to Assess Cognitive Load and Stress",
-        "year": "2015",
+        "link": "http://doi.acm.org/10.1145/3025453.3026022",
+        "author": "Raphael  Velt and Steve Benford and Stuart Reeves",
+        "title": "A Survey of the Trajectories Conceptual Framework: Investigating Theory Use in HCI",
+        "year": "2017",
         "venue": "CHI",
         "tags": [
-            "heart rate",
-            "questionnaires",
-            "photoplethysmography",
-            "cardiovascular",
-            "CHI"
+            "CHI",
+            "2017",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Theoretical"
         ]
     },
     "18": {
         "id": "18",
-        "link": "http://doi.acm.org/10.1145/2702123.2702156",
-        "author": "Borst, Jelmer P.; Taatgen, Niels A.; van Rijn, Hedderik",
-        "title": "What Makes Interruptions Disruptive?: A Process-Model Account of the Effects of the Problem State Bottleneck on Task Interruption and Resumption",
-        "year": "2015",
+        "link": "http://doi.acm.org/10.1145/3173574.3173589",
+        "author": "Elizabeth  Stowell and Mercedes C. Lyson and Herman  Saksono and Rene&#233; C. Wurth and Holly  Jimison and Misha  Pavel and Andrea G. Parker",
+        "title": "Designing and Evaluating mHealth Interventions for Vulnerable Populations: A Systematic Review",
+        "year": "2018",
         "venue": "CHI",
         "tags": [
-            "meta",
-            "CHI"
+            "CHI",
+            "2018",
+            "IRR not Specified",
+            "Flow Diagram",
+            "ACM",
+            "IEEE",
+            "Google Scholar",
+            "ScienceDirect",
+            "PubMed",
+            "CHINAHL",
+            "MEDLINE",
+            "PsychINFO",
+            "Sage Journals",
+            "Compendex",
+            "PAIS",
+            "Empirical"
         ]
     },
     "19": {
         "id": "19",
-        "link": "http://doi.acm.org/10.1145/2858036.2858117",
-        "author": "Pfleging, Bastian; Fekety, Drea K.; Schmidt, Albrecht; Kun, Andrew L.",
-        "title": "A Model Relating Pupil Diameter to Mental Workload and Lighting Conditions",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/3173574.3173704",
+        "author": "Qian  Yang and Nikola  Banovic and John  Zimmerman",
+        "title": "Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Innovation",
+        "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "ocular",
-            "eye tracking",
-            "pupil diameter",
-            "CHI"
+            "CHI",
+            "2018",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Methodological"
         ]
     },
     "20": {
         "id": "20",
-        "link": "http://doi.acm.org/10.1145/2858036.2858247",
-        "author": "McDuff, Daniel J.; Hernandez, Javier; Gontarek, Sarah; Picard, Rosalind W.",
-        "title": "COGCAM: Contact-free Measurement of Cognitive Stress During Computer Tasks with a Digital Camera",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/3173574.3173818",
+        "author": "Hanna  Schneider and Malin  Eiband and Daniel  Ullrich and Andreas  Butz",
+        "title": "Empowerment in HCI - A Survey and Framework",
+        "year": "2018",
         "venue": "CHI",
         "tags": [
-            "heart rate",
-            "questionnaires",
             "CHI",
-            "cardiovascular"
+            "2018",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Theoretical"
         ]
     },
     "21": {
         "id": "21",
-        "link": "http://doi.acm.org/10.1145/2858036.2858525",
-        "author": "Frey, J\u00e9r\u00e9my; Daniel, Maxime; Castet, Julien; Hachet, Martin; Lotte, Fabien",
-        "title": "Framework for Electroencephalography-based Evaluation of User Experience",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/3173574.3173921",
+        "author": "Shaghayegh  Roohi and Jari  Takatalo and Christian  Guckelsberger and Perttu  H&#228;m&#228;l&#228;inen",
+        "title": "Review of Intrinsic Motivation in Simulation-based Game Testing",
+        "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "electroencephalography",
             "CHI",
-            "cerebral",
-            "frequencies"
+            "2018",
+            "IRR not Specified",
+            "Method not Specified",
+            "Google Scholar",
+            "Empirical"
         ]
     },
     "22": {
         "id": "22",
-        "link": "http://doi.acm.org/10.1145/2858036.2858388",
-        "author": "Yuksel, Beste F.; Oleson, Kurt B.; Harrison, Lane; Peck, Evan M.; Afergan, Daniel; Chang, Remco; Jacob, Robert JK",
-        "title": "Learn Piano with BACh: An Adaptive Learning Interface That Adjusts Task Difficulty Based on Brain State",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/3173574.3173948",
+        "author": "Isabel P. S. Qamar and Rainer  Groh and David  Holman and Anne  Roudaut",
+        "title": "HCI Meets Material Science: A Literature Review of Morphing Materials for the Design of Shape-Changing Interfaces",
+        "year": "2018",
         "venue": "CHI",
         "tags": [
-            "functional near-infrared spectroscopy",
             "CHI",
-            "cerebral",
-            "hemodynamic response"
+            "2018",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Artifact"
         ]
     },
     "23": {
         "id": "23",
-        "link": "http://doi.acm.org/10.1145/2858036.2858236",
-        "author": "Lukanov, Kristiyan; Maior, Horia A.; Wilson, Max L.",
-        "title": "Using fNIRS in Usability Testing: Understanding the Effect of Web Form Layout on Mental Workload",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/3173574.3174035",
+        "author": "Ingrid  Pettersson and Florian  Lachner and Anna-Katharina  Frison and Andreas  Riener and Andreas  Butz",
+        "title": "A Bermuda Triangle?: A Review of Method Application and Triangulation in User Experience Evaluation",
+        "year": "2018",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "functional near-infrared spectroscopy",
             "CHI",
-            "hemodynamic response"
+            "2018",
+            "Exclusion of Papers",
+            "QUOROM",
+            "ACM",
+            "Methodological"
         ]
     },
     "24": {
         "id": "24",
-        "link": "http://doi.acm.org/10.1145/2858036.2858271",
-        "author": "Georges, Vanessa; Courtemanche, Fran\u00b8cois; Senecal, Sylvain; Baccino, Thierry; Fredette, Marc; Leger, Pierre-Majorique",
-        "title": "UX Heatmaps: Mapping User Experience on Visual Interfaces",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/3290605.3300475",
+        "author": "Pedro  Sanches and Axel  Janson and Pavel  Karpashevich and Camille  Nadal and Chengcheng  Qu and Claudia  Daud&#233;n Roquet and Muhammad  Umair and Charles  Windlin and Gavin  Doherty and Kristina  Höök and Corina  Sas",
+        "title": "HCI and Affective Health: Taking Stock of a Decade of Studies and Charting Future Research Directions",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "electrocardiography",
-            "cardiovascular",
-            "gaze",
-            "dermal",
-            "electrodermal activity",
             "CHI",
-            "eye blinks",
-            "saccades",
-            "ocular",
-            "eye tracking",
-            "ocular movements"
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "25": {
         "id": "25",
-        "link": "http://doi.acm.org/10.1145/3025453.3026037",
-        "author": "Evain, And\u00e9ol; Argelaguet, Ferran; Roussel, Nicolas; Casiez, G\u00e9ry; L\u00e9cuyer, Anatole",
-        "title": "Can I Think of Something Else when Using a BCI?: Cognitive Demand of an SSVEP-based BCI",
-        "year": "2017",
+        "link": "http://doi.acm.org/10.1145/3290605.3300480",
+        "author": "Mehmet Aydin  Baytas and Damla  &#199;ay and Yuchong  Zhang and Mohammad  Obaid and Asim Evren Yanta&#231; and Morten  Fjeld",
+        "title": "The Design of Social Drones: A Review of Studies on Autonomous Flyers in Inhabited Environments",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "cerebral",
-            "electroencephalography",
-            "frequencies",
-            "questionnaires",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "26": {
         "id": "26",
-        "link": "http://dx.doi.org/10.1145/3173574.3174226",
-        "author": "Lex Fridman, Bryan Reimer, Bruce Mehler, William T. Freeman",
-        "title": "Cognitive Load Estimation in the Wild",
-        "year": "2018",
+        "link": "http://dx.doi.org/10.1145/3290605.3300480",
+        "author": "Jonas  Frich and Lindsay  MacDonald Vermeulen and Christian  Remy and Michael Mose Biskjaer and Peter  Dalsgaard",
+        "title": "Mapping the Landscape of Creativity Support Tools in HCI",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "ocular",
-            "eye tracking",
             "CHI",
-            "pupil diameter"
+            "2019",
+            "IRR not Specified",
+            "Flow Diagram",
+            "ACM",
+            "Artifact"
         ]
     },
     "27": {
         "id": "27",
-        "link": "https://doi.org/10.1145/3173574.3173856",
-        "author": "Andrew T. Duchowski, Krzysztof Krejtz, Izabela Krejtz, Cezary Biele, Anna Niedzielska, Peter Kiefer, Martin Raubal, Ioannis Giannopoulos",
-        "title": "The Index of Pupillary Activity: Measuring Cognitive Load Vis-\u00e0-vis Task Difficulty with Pupil Oscillation",
-        "year": "2018",
+        "link": "https://doi.org/10.1145/3290605.3300648",
+        "author": "Henning  Pohl and Andreea  Muresan and Kasper  Hornb&#230;k",
+        "title": "Charting Subtle Interaction in the HCI Literature",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "ocular",
-            "eye tracking",
-            "pupil diameter",
-            "CHI"
+            "CHI",
+            "2019",
+            "Relevance of Papers",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "28": {
         "id": "28",
-        "link": "http://doi.acm.org/10.1145/3173574.3174010",
-        "author": "Kosch, Thomas and Hassib, Mariam and Wo\\'{z}niak, Pawe\\l W. and Buschek, Daniel and Alt, Florian",
-        "title": "Your Eyes Tell: Leveraging Smooth Pursuit for Assessing Cognitive Workload",
-        "year": "2018",
+        "link": "http://doi.acm.org/10.1145/3290605.3300687",
+        "author": "Nadja  Terzimehic; and Renate Häuslschmid and Heinrich  Hussmann and m.c.  schraefel",
+        "title": "A Review & Analysis of Mindfulness Research in HCI: Framing Current Lines of Research and Future Opportunities",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "ocular",
-            "eye tracking",
-            "ocular movements",
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "29": {
         "id": "29",
-        "link": "http://doi.acm.org/10.1145/3173574.3174046",
-        "author": "Glatz, Christiane and Krupenia, Stas S. and B\\\"{u}lthoff, Heinrich H. and Chuang, Lewis L.",
-        "title": "Use the Right Sound for the Right Job: Verbal Commands and Auditory Icons for a Task-Management System Favor Different Information Processes in the Brain",
-        "year": "2018",
+        "link": "http://doi.acm.org/10.1145/3290605.3300733",
+        "author": "Ana  Caraban and Evangelos  Karapanos and Daniel  Gon&#231;alves and Pedro  Campos",
+        "title": "23 Ways to Nudge: A Review of Technology-Mediated Nudging in Human-Computer Interaction",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "cerebral",
-            "electroencephalography",
-            "event-related potentials",
-            "CHI"
+            "CHI",
+            "2019",
+            "Exclusion of Papers",
+            "PRISMA",
+            "Google Scholar",
+            "Empirical"
         ]
     },
     "30": {
         "id": "30",
-        "link": "http://doi.acm.org/10.1145/1124772.1124939",
-        "author": "Biocca, Frank; Tang, Arthur; Owen, Charles; Xiao, Fan",
-        "title": "Attention Funnel: Omnidirectional 3D Cursor for Mobile Augmented Reality Platforms",
+        "link": "http://doi.acm.org/10.1145/3290605.3300767",
+        "author": "Maximilian  Speicher and Brian D. Hall and Michael  Nebeling",
+        "title": "What is Mixed Reality?",
         "year": "2006",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "dblp",
+            "Scopus",
+            "Empirical"
         ]
     },
     "31": {
         "id": "31",
-        "link": "http://doi.acm.org/10.1145/1124772.1124866",
-        "author": "Eng, Katherine; Lewis, Richard L.; Tollinger, Irene; Chu, Alina; Howes, Andrew; Vera, Alonso",
-        "title": "Generating Automated Predictions of Behavior Strategically Adapted to Specific Performance Objectives",
-        "year": "2006",
+        "link": "http://doi.acm.org/10.1145/3290605.3300792",
+        "author": "Frederik  Brudy and Christian  Holz and Roman  Rädle and Chi-Jui  Wu and Steven  Houben and Clemens Nylandsted Klokmose and Nicolai  Marquardt",
+        "title": "Cross-Device Taxonomy: Survey, Opportunities and Challenges of Interactions Spanning Across Multiple Devices",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "task performance",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Methodological"
         ]
     },
     "32": {
         "id": "32",
-        "link": "http://doi.acm.org/10.1145/1240624.1240631",
-        "author": "Gluck, Jennifer; Bunt, Andrea; McGrenere, Joanna",
-        "title": "Matching Attentional Draw with Utility in Interruption",
-        "year": "2007",
+        "link": "http://doi.acm.org/10.1145/3290605.3300831",
+        "author": "Danding  Wang and Qian  Yang and Ashraf  Abdul and Brian Y. Lim",
+        "title": "Designing Theory-Driven User-Centric Explainable AI",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Theoretical"
         ]
     },
     "33": {
         "id": "33",
-        "link": "http://doi.acm.org/10.1145/2207676.2208656",
-        "author": "Brehmer, Matthew; McGrenere, Joanna; Tang, Charlotte; Jacova, Claudia",
-        "title": "Investigating Interruptions in the Context of Computerised Cognitive Testing for Older Adults",
-        "year": "2012",
+        "link": "http://doi.acm.org/10.1145/3290605.3300908",
+        "author": "Ferran  Altarriba Bertran and Samvid  Jhaveri and Rosa  Lutz and Katherine  Isbister and Danielle  Wilde",
+        "title": "Making Sense of Human-Food Interaction",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "34": {
         "id": "34",
-        "link": "http://doi.acm.org/10.1145/2470654.2481407",
-        "author": "McDonald, Sharon; Petrie, Helen",
-        "title": "The Effect of Global Instructions on Think-aloud Testing",
-        "year": "2013",
-        "venue": "CHI",
+        "link": "http://doi.acm.org/10.1145/2395131.2395137",
+        "author": "Marc Hassenzahl and Stephanie Heidecker and Kai Eckoldt and Sarah Diefenbach and Uwe Hillmann",
+        "title": "All You Need is Love: Current Strategies of Mediating Intimate Relationships Through Technology",
+        "year": "2012",
+        "venue": "TOCHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "TOCHI",
+            "2012",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Artifact"
         ]
     },
     "35": {
         "id": "35",
-        "link": "http://doi.acm.org/10.1145/2556288.2557202",
-        "author": "Piccardi, Tiziano; Convertino, Gregorio; Zancanaro, Massimo; Wang, Ji; Archambeau, Cedric",
-        "title": "Towards Crowd-based Customer Service: A Mixed-initiative Tool for Managing Q&#38;A Sites",
-        "year": "2014",
-        "venue": "CHI",
+        "link": "http://doi.acm.org/10.1145/3127358",
+        "author": "Kasper Hornbæk and Morten Hertzum",
+        "title": "Technology Acceptance and User Experience: A Review of the Experiential Component in HCI",
+        "year": "2017",
+        "venue": "TOCHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "TOCHI",
+            "2017",
+            "Exclusion of Papers",
+            "Flow Diagram",
+            "No Databases Specified",
+            "Theoretical"
         ]
     },
     "36": {
         "id": "36",
-        "link": "http://doi.acm.org/10.1145/2556288.2556996",
-        "author": "Vaish, Rajan; Wyngarden, Keith; Chen, Jingshu; Cheung, Brandon; Bernstein, Michael S.",
-        "title": "Twitch Crowdsourcing: Crowd Contributions in Short Bursts of Time",
-        "year": "2014",
-        "venue": "CHI",
+        "link": "http://doi.acm.org/10.1145/3144569",
+        "author": "Ahmed Kharrufa and Thomas Ploetz and Patrick Olivier",
+        "title": "A Unified Model for User Identification on Multi-Touch Surfaces: A Survey and Meta-Analysis",
+        "year": "2017",
+        "venue": "TOCHI",
         "tags": [
-            "task performance",
-            "CHI"
+            "TOCHI",
+            "2017",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Artifact"
         ]
     },
     "37": {
         "id": "37",
-        "link": "http://doi.acm.org/10.1145/2858036.2858461",
-        "author": "Gupta, Surabhi; Coles, Tim; Dumas, Cedric; McBride, Simon J.; Bradford, DanaKai",
-        "title": "Gamer Style: Performance Factors in Gamified Simulation",
-        "year": "2016",
-        "venue": "CHI",
+        "link": "http://doi.acm.org/10.1145/2803173",
+        "author": "Francisco Nunes and Nervo Verdezoto and Geraldine Fitzpatrick and Morten Kyng and Erik Gr&#246;nvall and Cristiano Storni",
+        "title": "Self-Care Technologies in HCI: Trends, Tensions, and Opportunities",
+        "year": "2015",
+        "venue": "TOCHI",
         "tags": [
-            "electroencephalography",
-            "cerebral",
-            "frequencies",
-            "CHI"
+            "TOCHI",
+            "2015",
+            "IRR not Specified",
+            "Method not Specified",
+            "IEEE",
+            "Artifact"
         ]
     },
     "38": {
         "id": "38",
-        "link": "http://doi.acm.org/10.1145/2858036.2858491",
-        "author": "Wozniak, Pawe\u0142and Goyal, Nitesh; Kucharski, Przemyslawand Lischke, Lars; Mayer, Sven; Fjeld, Morten",
-        "title": "RAMPARTS: Supporting Sensemaking with Spatially-Aware Mobile Interactions",
-        "year": "2016",
-        "venue": "CHI",
+        "link": "http://doi.acm.org/10.1145/3184743",
+        "author": "Michinari Kono and Takumi Takahashi and Hiromi Nakamura and Takashi Miyaki and Jun Rekimoto",
+        "title": "Design Guideline for Developing Safe Systems That Apply Electricity to the Human Body",
+        "year": "2018",
+        "venue": "TOCHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "TOCHI",
+            "2018",
+            "IRR not Specified",
+            "Method not Specified",
+            "IEEE",
+            "ACM",
+            "Artifact"
         ]
     },
     "39": {
         "id": "39",
-        "link": "http://doi.acm.org/10.1145/2858036.2858416",
-        "author": "Sivaraman, Venkatesh; Yoon, Dongwook; Mitros, Piotr",
-        "title": "Simplified Audio Production in Asynchronous Voice-Based Discussions",
-        "year": "2016",
-        "venue": "CHI",
+        "link": "http://doi.acm.org/10.1145/344949.344988   ",
+        "author": "Gregory D. Abowd and Elizabeth D. Mynatt",
+        "title": "Charting Past, Present, and Future Research in Ubiquitous Computing",
+        "year": "2000",
+        "venue": "TOCHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "TOCHI",
+            "2000",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Empirical"
         ]
     },
     "40": {
         "id": "40",
-        "link": "http://doi.acm.org/10.1145/2858036.2858412",
-        "author": "Schramm, Katherine; Gutwin, Carl; Cockburn, Andy",
-        "title": "Supporting Transitions to Expertise in Hidden Toolbars",
-        "year": "2016",
+        "link": "http://doi.acm.org/10.1145/1978942.1979043",
+        "author": "Gopinaath Kannabiran and Jeffrey Bardzell and Shaowen Bardzell",
+        "title": "How HCI Talks About Sexuality: Discursive Strategies, Blind Spots, and Opportunities for Future Research",
+        "year": "2011",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "CHI"
+            "CHI",
+            "2011",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "41": {
         "id": "41",
-        "link": "https://doi.org/10.1145/3173574.3173791",
-        "author": "Hajin Lim, Dan Cosley, Susan R. Fussell",
-        "title": "Beyond Translation: Design and Evaluation of an Emotional and Contextual Knowledge Interface for Foreign Language Social Media Posts",
-        "year": "2018",
+        "link": "https://doi.org/10.1145/3313831.3376229",
+        "author": "Saxena, D., Badillo-Urquiola, K., Wisniewski, P.J. and Guha, S.",
+        "title": "A Human-Centered Review of Algorithms Used within the U.S. Child Welfare System",
+        "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "IEEE",
+            "Elsevier",
+            "SpringerLink",
+            "Routledge",
+            "Artifact"
         ]
     },
     "42": {
         "id": "42",
-        "link": "https://doi.org/10.1145/3313831.3376766",
-        "author": "Kosch, Thomas; Schmidt, Albrecht; Thanheiser, Simon; Chuang, Lewis L.",
-        "title": "One does not simply RSVP: Mental workload to select speed reading parameters using electroencephalography",
+        "link": "https://doi.org/10.1145/3313831.3376502",
+        "author": "Salminen, J., Guan, K., Jung, S.-G., Chowdhury, S.A. and Jansen, B.J.",
+        "title": "A Literature Review of Quantitative Persona Creation",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "cerebral",
-            "electroencephalography",
-            "frequencies",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "PRISMA",
+            "ACM",
+            "Google Scholar",
+            "Methodological"
         ]
     },
     "43": {
         "id": "43",
-        "link": "https://doi.org/10.1145/3313831.3376872",
-        "author": "Baceviciute, Sarune; Mottelson, Aske; Terkildsen, Thomas; Makransky, Guido",
-        "title": "Investigating representation of text and audio in educational VR using learning outcomes and EEG",
+        "link": "https://doi.org/10.1145/3313831.3376291",
+        "author": "Baykal, G.E., Van Mechelen, M. and Eriksson, E.",
+        "title": "Collaborative Technologies for Children with Special Needs: A Systematic Literature Review",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "electroencephalography",
-            "frequencies",
-            "cerebral",
-            "CHI"
+            "CHI",
+            "2020",
+            "Exclusion of Papers",
+            "Method not Specified",
+            "ACM",
+            "Methodological",
+            "Empirical"
         ]
     },
     "44": {
         "id": "44",
-        "link": "https://doi.org/10.1145/3313831.3376394",
-        "author": "Duchowski, Andrew T.; Krejtz, Krzysztof; Gehrer, Nina A.; Bafna, Tanya; B\u00e6kgaard, Per",
-        "title": "The Low/High index of pupillary activity",
+        "link": "https://doi.org/10.1145/3313831.3376532",
+        "author": "Parker, C., Tomitsch, M., Davies, N., Valkanova, N. and Kay, J.",
+        "title": "Foundations for Designing Public Interactive Displays That Provide Value to Users",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "ocular",
-            "eye tracking",
-            "pupil diameter",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Empirical"
         ]
     },
     "45": {
         "id": "45",
-        "link": "https://doi.org/10.1145/3313831.3376472",
-        "author": "Colley, Mark; Walch, Marcel; Gugenheimer, Jan; Askari, Ali; Rukzio, Enrico",
-        "title": "Towards inclusive external communication of autonomous vehicles for pedestrians with vision impairments",
+        "link": "https://doi.org/10.1145/3313831.3376183",
+        "author": "Prpa, M., Stepanova, E.R., Schiphorst, T., Riecke, B.E. and Pasquier, P.",
+        "title": "Inhaling and Exhaling: How Technologies Can Perceptually Extend Our Breath Awareness",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Design and Applied Arts Index",
+            "IEEE",
+            "Google Scholar",
+            "Artifact"
         ]
     },
     "46": {
         "id": "46",
-        "link": "https://doi.org/10.1145/3313831.3376541",
-        "author": "Wells, Thomas; Houben, Steven",
-        "title": "CollabAR \u0096 investigating the mediating role of mobile AR interfaces on co-located group collaboration",
+        "link": "https://doi.org/10.1145/3313831.3376749",
+        "author": "Brulé, E., Tomlinson, B.J., Metatla, O., Jouffrais, C. and Serrano, M.",
+        "title": "Review of Quantitative Empirical Evaluations of Technology for People with Visual Impairments",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2020",
+            "Exclusion of Papers",
+            "Method not Specified",
+            "ACM",
+            "IEEE",
+            "Methodological"
         ]
     },
     "47": {
         "id": "47",
-        "link": "https://doi.org/10.1145/3313831.3376322",
-        "author": "Zhang, Xinlei; Miyaki, Takashi; Rekimoto, Jun",
-        "title": "WithYou: Automated adaptive speech tutoring with context-dependent speech recognition",
+        "link": "https://doi.org/10.1145/3313831.3376723",
+        "author": "Tyack, A. and Mekler, E.D.",
+        "title": "Self-Determination Theory in HCI Games Research: Current Uses and Open Questions",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "Method not Specified",
+            "Scopus",
+            "Theoretical"
         ]
     },
     "48": {
         "id": "48",
-        "link": "https://doi.org/10.1145/3313831.3376403",
-        "author": "Qiu, Sihang; Gadiraju, Ujwal; Bozzon, Alessandro",
-        "title": "Improving worker engagement through conversational microtask crowdsourcing",
+        "link": "https://doi.org/10.1145/3313831.3376840",
+        "author": "Katsini, C., Abdrabou, Y., Raptis, G.E., Khamis, M. and Alt, F.",
+        "title": "The Role of Eye Gaze in Security and Privacy Applications: Survey and Future HCI Research Directions",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Artifact"
         ]
     },
     "49": {
         "id": "49",
-        "link": "https://doi.org/10.1145/3313831.3376845",
-        "author": "Lee, Bridjet; Muldner, Kasia",
-        "title": "Instructional video design: Investigating the impact of monologue- and dialogue-style presentations",
+        "link": "https://doi.org/10.1145/3313831.3376883",
+        "author": "Beneteau, E. ",
+        "title": "Who Are You Asking?: Qualitative Methods for Involving AAC Users as Primary Research Participants",
         "year": "2020",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "CHI"
+            "CHI",
+            "2020",
+            "IRR not Specified",
+            "Method not Specified",
+            "ACM",
+            "Methodological"
         ]
     },
     "50": {
         "id": "50",
-        "link": "https://doi.org/10.1145/3313831.3376816",
-        "author": "Funk, Markus; Tobisch, Vanessa; Emfield, Adam",
-        "title": "Non-verbal auditory input for controlling binary, discrete, and continuous input in automotive user interfaces",
+        "link": "https://doi.org/10.1145/3398069",
+        "author": "Thieme, A., Belgrave, D., & Doherty, G.",
+        "title": "Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development of Effective and Implementable ML Systems",
         "year": "2020",
-        "venue": "CHI",
+        "venue": "TOCHI",
         "tags": [
-            "nasa-tlx",
-            "CHI"
+            "TOCHI",
+            "2020",
+            "IRR not Specified",
+            "PRISMA",
+            "ACM",
+            "Artifact"
         ]
     },
     "51": {

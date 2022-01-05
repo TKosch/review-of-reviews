@@ -62,6 +62,7 @@
         "clusters": [
             "PRISMA",
             "QUOROM",
+            "Flow Diagram",
             "Method not Specified"
         ]
     },
@@ -69,8 +70,6 @@
         "title": "database",
         "clusters": [
             "ACM",
-            "WoK",
-            "ScD",
             "IEEE",
             "Google Scholar",
             "dblp",
@@ -90,13 +89,19 @@
             "EBSCO",
             "Infosci",
             "ProQuest",
-            "Web of Science",
             "US and International Law",
             "TRID",
             "CiteSeer",
             "Mendeley",
             "Elsevier",
+            "Routledge",
             "ERIC",
+            "CHINAHL",
+            "MEDLINE",
+            "PsychINFO",
+            "Sage Journals",
+            "Compendex",
+            "PAIS",
             "No Databases Specified"
         ]
     },
