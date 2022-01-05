@@ -17,14 +17,18 @@
     },
     "2": {
         "id": "2",
-        "link": "http://doi.acm.org/10.1145/985692.985727",
-        "author": "Adamczyk, Piotr D.; Bailey, Brian P.",
-        "title": "If Not Now, when?: The Effects of Interruption at Different Moments Within Task Execution",
-        "year": "2004",
+        "link": "http://doi.acm.org/10.1145/3290605.3300647",
+        "author": "Barış Serim and Giulio Jacucci",
+        "title": "Explicating 'Implicit Interaction': An Examination of the Concept and Challenges for Research",
+        "year": "2019",
         "venue": "CHI",
         "tags": [
-            "questionnaires",
-            "CHI"
+            "CHI",
+            "2019",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified",
+            "Theoretical"
         ]
     },
     "3": {
