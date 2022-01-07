@@ -18,7 +18,7 @@
     "2": {
         "id": "2",
         "link": "http://doi.acm.org/10.1145/3290605.3300647",
-        "author": "Barış Serim and Giulio Jacucci",
+        "author": "Bariş Serim and Giulio Jacucci",
         "title": "Explicating 'Implicit Interaction': An Examination of the Concept and Challenges for Research",
         "year": "2019",
         "venue": "CHI",
@@ -104,7 +104,7 @@
         "venue": "CHI",
         "tags": [
             "CHI",
-            "2009",
+            "2010",
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
@@ -296,7 +296,7 @@
             "CHINAHL",
             "MEDLINE",
             "PsychINFO",
-            "Sage Journals",
+            "SagePub",
             "Compendex",
             "PAIS",
             "Empirical"
@@ -1023,7 +1023,6 @@
             "CHI",
             "2021",
             "IRR not Specified",
-            "No Databases Specified",
             "Method not Specified",
             "ACM",
             "Methodological"
@@ -1040,7 +1039,6 @@
             "CHI",
             "2021",
             "IRR not Specified",
-            "No Databases Specified",
             "Method not Specified",
             "ACM",
             "Methodological"
@@ -1057,7 +1055,6 @@
             "CHI",
             "2021",
             "Coding and Categorization in Subsets",
-            "No Databases Specified",
             "Method not Specified",
             "ACM",
             "Empirical",
@@ -2577,6 +2574,38 @@
             "Review Categories",
             "ACM",
             "PRISMA",
+            "Empirical"
+        ]
+    },
+    "153": {
+        "id": "152",
+        "link": "https://doi.org/10.1145/3411764.3445231",
+        "author": "",
+        "title": "Expressivity in Interaction: A Framework for Design",
+        "year": "2021",
+        "venue": "CHI",
+        "tags": [
+            "CHI",
+            "2021",
+            "IRR not Specified",
+            "ACM",
+            "Method not Specified",
+            "Empirical"
+        ]
+    },
+    "154": {
+        "id": "152",
+        "link": "https://doi.org/10.1145/2901790.2901889",
+        "author": "",
+        "title": "Teens, Parents, and Financial Literacy",
+        "year": "2016",
+        "venue": "DIS",
+        "tags": [
+            "DIS",
+            "2016",
+            "IRR not Specified",
+            "No Databases Specified",
+            "Method not Specified",
             "Empirical"
         ]
     }
