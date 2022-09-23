@@ -2608,5 +2608,330 @@
             "Method not Specified",
             "Empirical"
         ]
-    }
+    },
+    "155": {
+        "link": "https://doi.org/10.1145/3411764.3445488",
+        "author": "Linxen, Sebastian and Sturm, Christian and Bruhlmann, Florian and Cassau, Vincent and Opwis, Klaus and Reinecke, Katharina",
+        "venue": "CHI",
+        "id": "155",
+        "year":"2021",
+        "title": "How WEIRD is CHI?",
+            "tags": [
+                "CHI",
+                "2021",
+                "Method not Specified",
+                "Methodological"
+            ]
+      },
+    "156": {
+        "link": "https://doi.org/10.1145/3490555",
+        "author": "Sabie, Dina and Ekmekcioglu, Cansu and Ahmed, Syed Ishtiaque",
+        "id": "156",
+        "year":"2022",
+        "title": "A decade of international migration research in HCI: Overview, challenges, ethics, impact, and future directions",
+          "venue":"ToCHI",
+              "tags": [
+                "TOCHI",
+                "2022",
+                "IRR not Specified",
+                "Method not Specified",
+                "Empirical",
+                "Flow Diagram",
+                "ACM"
+            ]
+      },"157":  {
+        "link": "https://doi.org/10.1145/3503537",
+        "author":"Xia, Haijun and Glueck, Michael and Annett, Michelle and Wang, Michael and Wigdor, Daniel",
+        "year":"2022", 
+        "id": "157",
+        "venue":"ToCHI",
+        "title": "Iteratively designing gesture vocabularies: A survey and analysis of best practices in the HCI literature",
+         "tags": [
+                "ToCHI",
+                "2022",
+                "IRR not Specified",
+                "Method not Specified",
+                "Empirical",
+                "Flow Diagram",
+                "ACM",
+                "Google Scholar",
+                "IEEE",
+                "Artifact"
+            ]
+      },
+    "158":   {
+        "link": "https://doi.org/10.1145/3491102.3501855",
+        "author": "Zheng, Qingxiao and Tang, Yiliu and Liu, Yiren and Liu, Weizi and Huang, Yun",
+        "venue": "CHI",
+        "id": "158",
+        "year":"2022",    
+        "title": "UX research on conversational human-AI interaction: A literature review of the ACM digital library",
+        "title-short": "UX research on conversational human-AI interaction"  
+      },
+    "159": {    
+        "link": "https://doi.org/10.1145/3491102.3501875",
+        "author": "Rogers, Katja and Karaosmanoglu, Sukran and Altmeyer, Maximilian and Suarez, Ally and Nacke, Lennart E.",
+        "venue": "CHI",
+        "id": "10.1145/3491102.3501875",
+        "year":"2022",   
+        "title": "Much realistic, such wow! A systematic literature review of realism in digital games"
+      },
+    "160":  {
+        "link": "https://doi.org/10.1145/3491102.3501881",
+        "author": "Herdel, Viviane and Yamin, Lee J. and Cauchard, Jessica R.",
+        "venue": "CHI",
+        "id": "160",
+        "year":"2022", 
+        "title": "Above and beyond: A scoping review of domains and applications for human-drone interaction",
+        "title-short": "Above and beyond"
+      },
+    "161":   {
+        "link": "https://doi.org/10.1145/3491102.3507656",
+        "author": "Jones, Michael D and Von Feldt, Meredith and Andrus, Natalie",
+        "venue": "CHI",
+        "id": "161",
+        "year":"2022",    
+        "title": "Outside where? A survey of climates and built environments in studies of HCI outdoors"
+      },
+    "162":   {
+        "link": "https://doi.org/10.1145/3491102.3517495",
+        "author": "Moge, Clara and Wang, Katherine and Cho, Youngjun",
+        "venue": "CHI",
+        "id": "1625",
+        "year":"2022",
+        "title": "Shared user interfaces of physiological data: Systematic review of social biofeedback systems and contexts in HCI"
+      },
+    "163":   {
+        "link": "https://doi.org/10.1145/3491102.3517589",
+        "author": "",
+        "venue": "CHI",
+        "id": "163",
+        "year":"2022",
+        "title": "Use cases for design personas: A systematic review and new frontiers",
+        "title-short": "Use cases for design personas"
+      },
+     "164":    {
+        "link": "https://doi.org/10.1145/3491102.3517621",
+        "author": "",
+        "venue": "CHI",
+        "id": "164",
+        "year":"2022",
+        "title": "Examining identity as a variable of health technology research for older adults: A systematic review"
+      },
+    "165":    {
+        "link": "https://doi.org/10.1145/3491102.3517668",
+        "author": "Nittala, Aditya Shekhar and Steimle, Jurgen",
+        "venue": "CHI",
+        "id": "165",
+        "year":"2022",
+        "title": "Next steps in epidermal computing: Opportunities and challenges for soft on-skin devices"
+      }, "166":   {
+        "link": "https://doi.org/10.1145/3491102.3517719",
+        "author": "Suzuki, Ryo and Karim, Adnan and Xia, Tian and Hedayati, Hooman and Marquardt, Nicolai",
+        "venue": "CHI",
+        "id": "166",
+        "year":"2022",
+        "title": "Augmented reality and robotics: A survey and taxonomy for AR-enhanced human-robot interaction and robotic interfaces"
+      },
+        "167":    {
+        "link": "https://doi.org/10.1145/3491102.3517716",
+        "author": "Cooper, Ned and Horne, Tiffanie and Hayes, Gillian R and Heldreth, Courtney and Lahav, Michal and Holbrook, Jess and Wilcox, Lauren",
+        "venue": "CHI",
+        "id": "167",
+        "year":"2022",
+        "title": "A systematic review and thematic analysis of community-collaborative approaches to computing research"
+      },
+        "168":    { 
+        "link": "https://doi.org/10.1145/3491102.3517609",
+        "author": "Bremer, Christina and Knowles, Bran and Friday, Adrian",
+        "venue": "CHI",
+        "id": "168",
+        "year":"2022",
+        "title": "Have we taken on too much?: A critical review of the sustainable HCI landscape"
+      },
+         "169":    {
+        "link": "https://doi.org/10.1145/3501712.3529728",
+        "author": "Eriksson, Eva and Baykal, Gokce Elif and Torgersson, Olof",
+        "venue": "IDC",
+        "id": "169",
+        "year":"2022",
+        "title": "The role of learning theory in child-computer interaction - a semi-systematic literature review"
+      },
+        "170":     {
+        "link": "https://doi.org/10.1145/3501712.3529746",
+        "author": "Stefanidi, Evropi and Schoning, Johannes and Feger, Sebastian S. and Marshall, Paul and Rogers, Yvonne and Niess, Jasmin",
+        "venue": "IDC",
+        "id": "170",
+        "year":"2022",   
+        "title": "Designing for care ecosystems: A literature review of technologies for children with ADHD"
+      },
+         "171":        {
+        "link": "https://doi.org/10.1145/3450741.3465262",
+        "author": "Liang, Meng and Li, Yanhong and Weber, Thomas and Hussmann, Heinrich",
+        "venue": "C&amp;C",
+        "id": "171",
+        "year":"2021",
+        "title": "Tangible interaction for children's creative learning: A review",
+        "title-short": "Tangible interaction for children's creative learning"
+      },
+         "172":      {
+        "link": "https://doi.org/10.1145/3452918.3465485",
+        "author": "Vatavu, Radu-Daniel",
+        "venue": "IMX",
+        "id": "172",
+        "year":"2021",
+        "title": "Accessibility of interactive television and media experiences: Users with disabilities have been little voiced at IMX and TVX",
+        "title-short": "Accessibility of interactive television and media experiences"
+       },
+           "173":    {
+        "link": "https://doi.org/10.1145/3490149.3501313",
+        "author": "Li, Yanhong and Liang, Meng and Preissing, Julian and Bachl, Nadine and Dutoit, Michelle Melina and Weber, Thomas and Mayer, Sven and Hussmann, Heinrich",
+        "venue": "TEI",
+        "id": "173",
+        "year":"2022",
+        "title": "A meta-analysis of tangible learning studies from the TEI conference"
+      },
+           "174":    {
+        "link": "https://doi.org/10.1145/3409118.3475125",
+        "author": "Donmez Ozkan, Yasemin and Mirnig, Alexander G. and Meschtscherjakov, Alexander and Demir, Cansu and Tscheligi, Manfred",
+        "venue": "AutomotiveUI",
+        "id": "174",
+        "year":"2021",
+        "title": "Mode awareness interfaces in automated vehicles, robotics, and aviation: A literature review",
+        "title-short": "Mode awareness interfaces in automated vehicles, robotics, and aviation"
+      },
+          "175":   {
+        "link": "https://doi.org/10.1145/3409118.3475146",
+        "author": "Dam, Abhraneil and Jeon, Myounghoon",
+        "venue": "AutomotiveUI",
+        "id": "175",
+        "year":"2021",
+        "title": "A review of motion sickness in automated vehicles"
+      },
+          "176":     {
+        "author": "Seaborn, Katie and Pennefather, Peter",
+        "venue": "HRI",
+        "id": "176",
+        "year":"2022",
+        "title": "Gender neutrality in robots: An open living review framework",
+        "title-short": "Gender neutrality in robots"
+      },
+          "177":   {
+        "author": "Zimmerman, Megan and Bagchi, Shelly and Marvel, Jeremy and Nguyen, Vinh",
+        "venue": "HRI",
+        "id": "177",
+        "year":"2022",
+        "title": "An analysis of metrics and methods in research from human-robot interaction conferences, 2015-2021"
+      },
+         "178":   {
+        "link": "https://doi.org/10.1145/3447526.3472034",
+        "author": "Heller, Florian and Todi, Kashyap and Luyten, Kris",
+        "venue": "MobileHCI",
+        "id": "178",
+        "year":"2021",
+        "title": "An interactive design space for wearable displays"
+      }, 
+      "179":   {
+        "link": "https://doi.org/10.1145/3460421.3480424",
+        "author": "Lee, Seol-Yee and Islam Molla, Md. Tahmidul and Kao, Cindy Hsin-Liu",
+        "venue": "ISWC",
+        "id": "179",
+        "year":"2021",
+        "title": "A 10-year review of the methods and purposes of on-skin interface research in ACM SIGCHI"
+      },
+         "180":    {
+        "link": "https://doi.org/10.1145/3532106.3533458",
+        "author": "Johansen, Stine S. and van Berkel, Niels and Fritsch, Jonas",
+        "venue": "DIS",
+        "id": "180",
+        "year":"2022",
+        "title": "Characterising soundscape research in human-computer&nbsp;interaction"
+      },
+         "181":    {
+        "link": "https://doi.org/10.1145/3532106.3533478",
+        "author": "Froehlich, Michael and Waltenberger, Franz and Trotter, Ludwig and Alt, Florian and Schmidt, Albrecht",
+        "venue": "DIS",
+        "id": "181",
+        "year":"2022",
+        "title": "Blockchain and cryptocurrency in human computer interaction: A systematic literature review and research agenda"
+      },
+         "182":    {
+        "link": "https://doi.org/10.1145/3532106.3533511",
+        "author": "Nunes Vilaza, Giovanna and Doherty, Kevin and McCashin, Darragh and Coyle, David and Bardram, Jakob and Barry, Marguerite",
+        "venue": "DIS",
+        "id": "182",
+        "year":"2022",
+        "title": "A scoping review of ethics across SIGCHI"
+      },
+          "183":   {
+        "link": "https://doi.org/10.1145/3532106.3533543",
+        "author": "Clashing, Christal and Smith, Ian and Montoya, Maria F. and Patibanda, Rakesh and Ananthanarayan, Swamy and Pell, Sarah Jane and Mueller, Florian Floyd",
+        "venue": "DIS",
+        "id": "183",
+        "year":"2022",
+        "title": "Going into depth: Learning from a survey of interactive designs for aquatic recreation",
+        "title-short": "Going into depth"
+      },
+         "184":    {
+        "link": "https://doi.org/10.1145/3532106.3533555",
+        "author": "Chang, Michelle and Shen, Chenyi and Maheshwari, Aditi and Danielescu, Andreea and Yao, Lining",
+        "venue": "DIS",
+        "id": "184",
+        "year":"2022",
+        "title": "Patterns and opportunities for the design of human-plant interaction"
+      },
+         "185":    {
+        "link": "https://doi.org/10.1145/3532106.3533566",
+        "author": "Pouta, Emmi and Mikkonen, Jussi Ville",
+        "venue": "DIS",
+        "id": "185",
+        "year":"2022",
+        "title": "Woven ETextiles in HCI — a literature review"
+      },
+           "186":   {
+        "link": "https://doi.org/10.1145/3379155.3391313",
+        "author": "",
+        "venue": "ETRA",
+        "id": "186",
+        "year":"2020",
+        "title": "A survey of digital eye strain in gaze-based interactive systems"
+      },
+    "187": {
+        "id":"187",
+        "link": "https://doi.org/10.1145/1570433.1570475",
+        "author": "Charfi, Syrine and Dubois, Emmanuel and Scapin, Dominique L.",
+        "venue": "EICS",
+        "year":"2009",    
+        "title": "Usability recommendations in the design of mixed interactive systems",
+        "tags": [
+                "EICS",
+                "2009",
+                "IRR not Specified",
+                "No Databases Specified",
+                "Method not Specified",
+                "Empirical"
+            ]
+      },
+           "188":   {
+        "link": "https://doi.org/10.1145/2933242.2935874",
+        "abstract": "This paper presents a design space for exploring design options of adaptive graphical menus based on Bertin's eight visual variables: position, size, shape, value, color, orientation, texture, and motion. In order to transform a traditional (static) menu into an adaptive one, at least one visual variable should be exploited to convey which menu items have been promoted or demoted depending on five characteristics: select, associative, quantitative, order, and length. The paper reviews selected adaptive menu interaction techniques belonging to each of these variables, classifies them according to the variables and characteristics and suggests not yet explored adaptive menu designs. It then defines four stability properties depending on which variables remain constant after adaptivity. A supporting software for prototyping the rendering of graphical adaptive menus is then introduced.",
+        "author": "Charfi, Syrine and Dubois, Emmanuel and Scapin, Dominique L.",
+        "venue": "EICS",
+        "id": "188",
+        "year":"2006",
+        "title": "A design space for engineering graphical adaptive menus",
+        "tags": [
+            "EICS",
+            "2006"
+        ]
+      },
+    "189":  {
+        "link": "https://doi.org/10.1145/2669485.2669509",
+        "author": "Cirelli, Mauricio and Nakamura, Ricardo",
+        "venue": "ITS",
+        "id": "189",
+        "year":"2014",
+        "title": "A survey on multi-touch gesture recognition and multi-touch frameworks"
+      }
+    
 }
