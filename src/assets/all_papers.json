@@ -493,8 +493,7 @@
             "dblp",
             "Scopus",
             "Empirical",
-            "Theoretical",
-            "Topical"
+            "Theoretical"
         ]
     },
     "31": {
@@ -709,8 +708,7 @@
             "Method not Specified",
             "ACM",
             "Methodological",
-            "Empirical",
-            "Topical"
+            "Empirical"
         ]
     },
     "44": {
@@ -876,8 +874,7 @@
             "Method not Specified",
             "No Databases Specified",
             "Artifact",
-            "Methodological",
-            "Topical"
+            "Methodological"
         ]
     },
     "54": {
@@ -1058,8 +1055,7 @@
             "Method not Specified",
             "ACM",
             "Empirical",
-            "Methodological",
-            "Topical"
+            "Methodological"
         ]
     },
     "65": {
@@ -1368,8 +1364,7 @@
             "Method not Specified",
             "No Databases Specified",
             "Artifact",
-            "Theoretical",
-            "Topical"
+            "Theoretical"
         ]
     },
     "83": {
@@ -2362,8 +2357,7 @@
             "Method not Specified",
             "Theoretical",
             "Empirical",
-            "Artifact",
-            "Topical"
+            "Artifact"
         ]
     },
     "141": {
@@ -2382,8 +2376,7 @@
             "ACM",
             "Method not Specified",
             "Theoretical",
-            "Empirical",
-            "Topical"
+            "Empirical"
         ]
     },
     "142": {
@@ -2402,8 +2395,7 @@
             "ACM",
             "Method not Specified",
             "Theoretical",
-            "Empirical",
-            "Topical"
+            "Empirical"
         ]
     },
     "143": {
@@ -2452,8 +2444,7 @@
             "ACM",
             "Method not Specified",
             "Empirical",
-            "Methodological",
-            "Topical"
+            "Methodological"
         ]
     },
     "146": {
@@ -2488,8 +2479,7 @@
             "ScienceDirect",
             "Method not Specified",
             "Artifact",
-            "Theoretical",
-            "Topical"
+            "Theoretical"
         ]
     },
     "148": {
