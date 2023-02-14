@@ -2656,7 +2656,13 @@
         "id": "158",
         "year":"2022",    
         "title": "UX research on conversational human-AI interaction: A literature review of the ACM digital library",
-        "title-short": "UX research on conversational human-AI interaction"  
+        "title-short": "UX research on conversational human-AI interaction",
+        "tags": [
+            "2022",
+            "CHI",
+            "Flow Diagram",
+            "Empirical"
+        ]
       },
     "159": {    
         "link": "https://doi.org/10.1145/3491102.3501875",
@@ -2664,7 +2670,13 @@
         "venue": "CHI",
         "id": "10.1145/3491102.3501875",
         "year":"2022",   
-        "title": "Much realistic, such wow! A systematic literature review of realism in digital games"
+        "title": "Much realistic, such wow! A systematic literature review of realism in digital games",
+        "tags": [
+            "2022",
+            "CHI",
+            "PRISMA",
+            "Empirical"
+        ]
       },
     "160":  {
         "link": "https://doi.org/10.1145/3491102.3501881",
@@ -2673,7 +2685,13 @@
         "id": "160",
         "year":"2022", 
         "title": "Above and beyond: A scoping review of domains and applications for human-drone interaction",
-        "title-short": "Above and beyond"
+        "title-short": "Above and beyond",
+        "tags": [
+            "CHI",
+            "2022",
+            "Flow Diagram",
+            "Artifact"
+        ]
       },
     "161":   {
         "link": "https://doi.org/10.1145/3491102.3507656",
@@ -2681,7 +2699,13 @@
         "venue": "CHI",
         "id": "161",
         "year":"2022",    
-        "title": "Outside where? A survey of climates and built environments in studies of HCI outdoors"
+        "title": "Outside where? A survey of climates and built environments in studies of HCI outdoors",
+        "tags": [
+            "CHI",
+            "2022",
+            "Flow Diagram",
+            "Empirical"
+        ]
       },
     "162":   {
         "link": "https://doi.org/10.1145/3491102.3517495",
@@ -2689,7 +2713,12 @@
         "venue": "CHI",
         "id": "1625",
         "year":"2022",
-        "title": "Shared user interfaces of physiological data: Systematic review of social biofeedback systems and contexts in HCI"
+        "title": "Shared user interfaces of physiological data: Systematic review of social biofeedback systems and contexts in HCI",
+        "tags": [
+            "2022",
+            "CHI",
+            "Artifact"
+        ]
       },
     "163":   {
         "link": "https://doi.org/10.1145/3491102.3517589",
@@ -2698,7 +2727,12 @@
         "id": "163",
         "year":"2022",
         "title": "Use cases for design personas: A systematic review and new frontiers",
-        "title-short": "Use cases for design personas"
+        "title-short": "Use cases for design personas",
+        "tags": [
+            "CHI",
+            "2022",
+            "Methodological"
+        ]
       },
      "164":    {
         "link": "https://doi.org/10.1145/3491102.3517621",
@@ -2706,7 +2740,13 @@
         "venue": "CHI",
         "id": "164",
         "year":"2022",
-        "title": "Examining identity as a variable of health technology research for older adults: A systematic review"
+        "title": "Examining identity as a variable of health technology research for older adults: A systematic review",
+        "tags": [
+            "CHI",
+            "2022",
+            "Flow Diagram",
+            "Empirical"
+        ]
       },
     "165":    {
         "link": "https://doi.org/10.1145/3491102.3517668",
@@ -2714,14 +2754,24 @@
         "venue": "CHI",
         "id": "165",
         "year":"2022",
-        "title": "Next steps in epidermal computing: Opportunities and challenges for soft on-skin devices"
+        "title": "Next steps in epidermal computing: Opportunities and challenges for soft on-skin devices",
+        "tags": [
+            "CHI",
+            "2022",
+            "Artifact"
+        ]
       }, "166":   {
         "link": "https://doi.org/10.1145/3491102.3517719",
         "author": "Suzuki, Ryo and Karim, Adnan and Xia, Tian and Hedayati, Hooman and Marquardt, Nicolai",
         "venue": "CHI",
         "id": "166",
         "year":"2022",
-        "title": "Augmented reality and robotics: A survey and taxonomy for AR-enhanced human-robot interaction and robotic interfaces"
+        "title": "Augmented reality and robotics: A survey and taxonomy for AR-enhanced human-robot interaction and robotic interfaces",
+        "tags": [
+            "CHI",
+            "2022",
+            "Artifact"
+        ]
       },
         "167":    {
         "link": "https://doi.org/10.1145/3491102.3517716",
@@ -2729,7 +2779,13 @@
         "venue": "CHI",
         "id": "167",
         "year":"2022",
-        "title": "A systematic review and thematic analysis of community-collaborative approaches to computing research"
+        "title": "A systematic review and thematic analysis of community-collaborative approaches to computing research",
+        "tags": [
+            "CHI",
+            "2022",
+            "Opinion",
+            "Empirical"
+        ]
       },
         "168":    { 
         "link": "https://doi.org/10.1145/3491102.3517609",
@@ -2737,7 +2793,13 @@
         "venue": "CHI",
         "id": "168",
         "year":"2022",
-        "title": "Have we taken on too much?: A critical review of the sustainable HCI landscape"
+        "title": "Have we taken on too much?: A critical review of the sustainable HCI landscape",
+        "tags": [
+            "CHI",
+            "2022",
+            "Opinion",
+            "Empirical"
+        ]
       },
          "169":    {
         "link": "https://doi.org/10.1145/3501712.3529728",
@@ -2745,7 +2807,14 @@
         "venue": "IDC",
         "id": "169",
         "year":"2022",
-        "title": "The role of learning theory in child-computer interaction - a semi-systematic literature review"
+        "title": "The role of learning theory in child-computer interaction - a semi-systematic literature review",
+        "tags": [
+            "IDC",
+            "2022",
+            "Theoretical",
+            "Methodological",
+            "Empirical"
+        ]
       },
         "170":     {
         "link": "https://doi.org/10.1145/3501712.3529746",
@@ -2753,7 +2822,15 @@
         "venue": "IDC",
         "id": "170",
         "year":"2022",   
-        "title": "Designing for care ecosystems: A literature review of technologies for children with ADHD"
+        "title": "Designing for care ecosystems: A literature review of technologies for children with ADHD",
+        "tags": [
+            "IDC",
+            "2022",
+            "PRISMA",
+            "Empirical",
+            "Artifact",
+            "Methodological"
+        ]
       },
          "171":        {
         "link": "https://doi.org/10.1145/3450741.3465262",
@@ -2762,7 +2839,12 @@
         "id": "171",
         "year":"2021",
         "title": "Tangible interaction for children's creative learning: A review",
-        "title-short": "Tangible interaction for children's creative learning"
+        "title-short": "Tangible interaction for children's creative learning",
+        "tags": [
+            "C&C",
+            "2021",
+            "Empirical"
+        ]
       },
          "172":      {
         "link": "https://doi.org/10.1145/3452918.3465485",
@@ -2771,7 +2853,13 @@
         "id": "172",
         "year":"2021",
         "title": "Accessibility of interactive television and media experiences: Users with disabilities have been little voiced at IMX and TVX",
-        "title-short": "Accessibility of interactive television and media experiences"
+        "title-short": "Accessibility of interactive television and media experiences",
+        "tags": [
+            "2021",
+            "IMX",
+            "Empirical"
+
+        ]
        },
            "173":    {
         "link": "https://doi.org/10.1145/3490149.3501313",
@@ -2779,7 +2867,12 @@
         "venue": "TEI",
         "id": "173",
         "year":"2022",
-        "title": "A meta-analysis of tangible learning studies from the TEI conference"
+        "title": "A meta-analysis of tangible learning studies from the TEI conference",
+        "tags": [
+            "Empirical",
+            "TEI",
+            "2022"
+        ]
       },
            "174":    {
         "link": "https://doi.org/10.1145/3409118.3475125",
@@ -2788,7 +2881,12 @@
         "id": "174",
         "year":"2021",
         "title": "Mode awareness interfaces in automated vehicles, robotics, and aviation: A literature review",
-        "title-short": "Mode awareness interfaces in automated vehicles, robotics, and aviation"
+        "title-short": "Mode awareness interfaces in automated vehicles, robotics, and aviation",
+        "tags": [
+            "2021",
+            "AutoUI",
+            "Empirical"
+        ]
       },
           "175":   {
         "link": "https://doi.org/10.1145/3409118.3475146",
@@ -2796,7 +2894,14 @@
         "venue": "AutomotiveUI",
         "id": "175",
         "year":"2021",
-        "title": "A review of motion sickness in automated vehicles"
+        "title": "A review of motion sickness in automated vehicles",
+        "tags": [
+            "AutoUI",
+            "2021",
+            "PRISMA",
+            "Empirical",
+            "Methodological"
+        ]
       },
           "176":     {
         "author": "Seaborn, Katie and Pennefather, Peter",
@@ -2804,14 +2909,25 @@
         "id": "176",
         "year":"2022",
         "title": "Gender neutrality in robots: An open living review framework",
-        "title-short": "Gender neutrality in robots"
+        "title-short": "Gender neutrality in robots",
+        "tags": [
+            "PRISMA",
+            "Theoretical",
+            "HRI",
+            "2022"
+        ]
       },
           "177":   {
         "author": "Zimmerman, Megan and Bagchi, Shelly and Marvel, Jeremy and Nguyen, Vinh",
         "venue": "HRI",
         "id": "177",
         "year":"2022",
-        "title": "An analysis of metrics and methods in research from human-robot interaction conferences, 2015-2021"
+        "title": "An analysis of metrics and methods in research from human-robot interaction conferences, 2015-2021",
+        "tags": [
+            "HRI",
+            "2022",
+            "Methodological"
+        ]
       },
          "178":   {
         "link": "https://doi.org/10.1145/3447526.3472034",
@@ -2819,7 +2935,12 @@
         "venue": "MobileHCI",
         "id": "178",
         "year":"2021",
-        "title": "An interactive design space for wearable displays"
+        "title": "An interactive design space for wearable displays",
+        "tags": [
+            "2021",
+            "MobileHCI",
+            "Artifact"
+        ]
       }, 
       "179":   {
         "link": "https://doi.org/10.1145/3460421.3480424",
@@ -2827,7 +2948,13 @@
         "venue": "ISWC",
         "id": "179",
         "year":"2021",
-        "title": "A 10-year review of the methods and purposes of on-skin interface research in ACM SIGCHI"
+        "title": "A 10-year review of the methods and purposes of on-skin interface research in ACM SIGCHI",
+        "tags": [
+            "2021",
+            "ISWC",
+            "Artifact",
+            "Methodological"
+        ]
       },
          "180":    {
         "link": "https://doi.org/10.1145/3532106.3533458",
@@ -2835,7 +2962,13 @@
         "venue": "DIS",
         "id": "180",
         "year":"2022",
-        "title": "Characterising soundscape research in human-computer&nbsp;interaction"
+        "title": "Characterising soundscape research in human-computer&nbsp;interaction",
+        "tags": [
+            "DIS",
+            "2022",
+            "PRISMA",
+            "Methodological"
+        ]
       },
          "181":    {
         "link": "https://doi.org/10.1145/3532106.3533478",
@@ -2843,7 +2976,13 @@
         "venue": "DIS",
         "id": "181",
         "year":"2022",
-        "title": "Blockchain and cryptocurrency in human computer interaction: A systematic literature review and research agenda"
+        "title": "Blockchain and cryptocurrency in human computer interaction: A systematic literature review and research agenda",
+        "tags": [
+            "PRISMA",
+            "Empirical",
+            "DIS",
+            "2022"
+        ]
       },
          "182":    {
         "link": "https://doi.org/10.1145/3532106.3533511",
@@ -2851,7 +2990,13 @@
         "venue": "DIS",
         "id": "182",
         "year":"2022",
-        "title": "A scoping review of ethics across SIGCHI"
+        "title": "A scoping review of ethics across SIGCHI",
+        "tags": [
+            "PRISMA",
+            "Theoretical",
+            "DIS",
+            "2022"
+        ]
       },
           "183":   {
         "link": "https://doi.org/10.1145/3532106.3533543",
@@ -2860,7 +3005,13 @@
         "id": "183",
         "year":"2022",
         "title": "Going into depth: Learning from a survey of interactive designs for aquatic recreation",
-        "title-short": "Going into depth"
+        "title-short": "Going into depth",
+        "tags": [
+            "DIS",
+            "2022",
+            "Flow Diagram",
+            "Empirical"
+        ]
       },
          "184":    {
         "link": "https://doi.org/10.1145/3532106.3533555",
@@ -2868,7 +3019,13 @@
         "venue": "DIS",
         "id": "184",
         "year":"2022",
-        "title": "Patterns and opportunities for the design of human-plant interaction"
+        "title": "Patterns and opportunities for the design of human-plant interaction",
+        "tags": [
+            "PRISMA",
+            "Theoretical",
+            "2022",
+            "DIS"
+        ]
       },
          "185":    {
         "link": "https://doi.org/10.1145/3532106.3533566",
@@ -2876,15 +3033,28 @@
         "venue": "DIS",
         "id": "185",
         "year":"2022",
-        "title": "Woven ETextiles in HCI — a literature review"
+        "title": "Woven ETextiles in HCI — a literature review",
+        "tags": [
+            "Flow Diagram",
+            "Theoretical",
+            "DIS",
+            "2022"
+        ]
       },
-           "186":   {
+        "186":   {
         "link": "https://doi.org/10.1145/3379155.3391313",
         "author": "",
         "venue": "ETRA",
         "id": "186",
         "year":"2020",
-        "title": "A survey of digital eye strain in gaze-based interactive systems"
+        "title": "A survey of digital eye strain in gaze-based interactive systems",
+        "tags": [
+            "ETRA",
+            "2020",
+            "PRISMA",
+            "Empirical",
+            "Methodological"
+        ]
       },
     "187": {
         "id":"187",
@@ -2921,7 +3091,11 @@
         "venue": "ITS",
         "id": "189",
         "year":"2014",
-        "title": "A survey on multi-touch gesture recognition and multi-touch frameworks"
+        "title": "A survey on multi-touch gesture recognition and multi-touch frameworks",
+        "tags": [
+            "ITS",
+            "2014"
+        ]
       }
     
 }
