@@ -1313,5 +1313,41 @@
         "83",
         "85",
         "126"
+    ],
+    "Work & Creativity": [
+        "1",
+        "5"
+    ],
+    "Specific Application Area": [
+        "2",
+        "7",
+        "9",
+        "10",
+        "12"
+    ],
+    "HCI Research": [
+        "3",
+        "4",
+        "6",
+        "13",
+        "14",
+        "17"
+    ],
+    "User Experience & Design": [
+        "8"
+    ],
+    "Games & Play": [
+        "11"
+    ],
+    "Specific Modality": [
+        "15",
+        "16"
+    ],
+    "Well-being & Health": [
+        "18",
+        "20"
+    ],
+    "AI & ML": [
+        "19"
     ]
 }

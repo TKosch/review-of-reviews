@@ -118,13 +118,30 @@
         ]
     },
     {
-        "title": "Contribution Class",
+        "title": "Contribution Type",
         "clusters": [
             "Empirical",
             "Artifact",
             "Methodological",
             "Theoretical",
             "Opinion"
+        ]
+    },
+    {
+        "title": "Review Topic",
+        "clusters": [
+            "Work & Creativity",
+            "Specific Application Area",
+            "HCI Research",
+            "User Experience & Design",
+            "Games & Play",
+            "Specific Modality",
+            "Well-being & Health",
+            "AI & ML",
+            "Interaction Design and Children",
+            "Accessibility",
+            "Human-Robot Interaction",
+            "Automotive UI"
         ]
     }
 ]

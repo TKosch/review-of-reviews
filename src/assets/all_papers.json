@@ -12,7 +12,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Theoretical"
+            "Theoretical",
+            "Work & Creativity"
         ]
     },
     "2": {
@@ -28,7 +29,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Theoretical"
+            "Theoretical",
+            "Specific Application Area"
         ]
     },
     "3": {
@@ -44,7 +46,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Methodological"
+            "Methodological",
+            "HCI Research"
         ]
     },
     "4": {
@@ -60,7 +63,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Methodological"
+            "Methodological",
+            "HCI Research"
         ]
     },
     "5": {
@@ -76,7 +80,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Theoretical"
+            "Theoretical",
+            "Work & Creativity"
         ]
     },
     "6": {
@@ -92,7 +97,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Methodological"
+            "Methodological",
+            "HCI Research"
         ]
     },
     "7": {
@@ -108,7 +114,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Artifact"
+            "Artifact",
+            "Specific Application Area"
         ]
     },
     "8": {
@@ -126,7 +133,8 @@
             "ACM",
             "Web of Science",
             "ScienceDirect",
-            "Methodological"
+            "Methodological",
+            "User Experience & Design"
         ]
     },
     "9": {
@@ -142,7 +150,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Empirical"
+            "Empirical",
+            "Specific Application Area"
         ]
     },
     "10": {
@@ -158,7 +167,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Artifact"
+            "Artifact",
+            "Specific Application Area"
         ]
     },
     "11": {
@@ -176,7 +186,8 @@
             "ACM",
             "ScienceDirect",
             "Web of Science",
-            "Empirical"
+            "Empirical",
+            "Games & Play"
         ]
     },
     "12": {
@@ -192,7 +203,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Empirical"
+            "Empirical",
+            "Specific Application Area"
         ]
     },
     "13": {
@@ -208,7 +220,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Methodological"
+            "Methodological",
+            "HCI Research"
         ]
     },
     "14": {
@@ -224,7 +237,8 @@
             "IRR not Specified",
             "Method not Specified",
             "ACM",
-            "Methodological"
+            "Methodological",
+            "HCI Research"
         ]
     },
     "15": {
@@ -240,7 +254,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Empirical"
+            "Empirical",
+            "Specific Modality"
         ]
     },
     "16": {
@@ -257,7 +272,8 @@
             "Method not Specified",
             "ACM",
             "IEEE",
-            "Artifact"
+            "Artifact",
+            "Specific Modality"
         ]
     },
     "17": {
@@ -273,7 +289,8 @@
             "IRR not Specified",
             "Method not Specified",
             "No Databases Specified",
-            "Theoretical"
+            "Theoretical",
+            "HCI Research"
         ]
     },
     "18": {
@@ -299,7 +316,8 @@
             "SagePub",
             "Compendex",
             "PAIS",
-            "Empirical"
+            "Empirical",
+            "Well-being & Health"
         ]
     },
     "19": {
@@ -315,7 +333,8 @@
             "IRR not Specified",
             "Method not Specified",
             "ACM",
-            "Methodological"
+            "Methodological",
+            "AI & ML"
         ]
     },
     "20": {
@@ -331,7 +350,8 @@
             "IRR not Specified",
             "Method not Specified",
             "ACM",
-            "Theoretical"
+            "Theoretical",
+            "Well-being & Health"
         ]
     },
     "21": {
