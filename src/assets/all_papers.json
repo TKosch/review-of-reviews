@@ -2764,8 +2764,10 @@
                 "CHI",
                 "2021",
                 "Method not Specified",
+                "Coding",
                 "Methodological",
-                "HCI Research"
+                "HCI Research",
+                "No Databases Specified"
             ]
       },
     "156": {
@@ -2819,7 +2821,10 @@
             "CHI",
             "Flow Diagram",
             "Empirical",
-            "AI & ML"
+            "AI & ML",
+            "Flow Diagram",
+            "Coding",
+            "ACM"
         ]
       },
     "159": {    
@@ -2834,7 +2839,11 @@
             "CHI",
             "PRISMA",
             "Empirical",
-            "Games & Play"
+            "Games & Play",
+            "PRISMA",
+            "IRR not Specified",
+            "ACM",
+            "Scopus"
         ]
       },
     "160":  {
@@ -2850,7 +2859,10 @@
             "2022",
             "Flow Diagram",
             "Artifact",
-            "Specific Modality"
+            "Specific Modality",
+            "IRR not Specified",
+            "ACM",
+            "IEEE"
         ]
       },
     "161":   {
@@ -2865,7 +2877,10 @@
             "2022",
             "Flow Diagram",
             "Empirical",
-            "Specific Application Area"
+            "Specific Application Area",
+            "ACM",
+            "IRR not Specified",
+            "Flow Diagram"
         ]
       },
     "162":   {
@@ -2879,12 +2894,18 @@
             "2022",
             "CHI",
             "Artifact",
-            "Well-being & Health"
+            "Well-being & Health",
+            "Method not Specified",
+            "Inclusion and Exclusion",
+            "ACM",
+            "IEEE",
+            "Scopus",
+            "Google Scholar"
         ]
       },
     "163":   {
         "link": "https://doi.org/10.1145/3491102.3517589",
-        "author": "",
+        "author": "Salminen, Joni and Guan, Kathleen W. and Jung, Soon-Gyo and Jansen, Bernard",
         "venue": "CHI",
         "id": "163",
         "year":"2022",
@@ -2894,12 +2915,17 @@
             "CHI",
             "2022",
             "Methodological",
-            "User Experience & Design"
+            "User Experience & Design",
+            "PRISMA",
+            "IRR not Specified",
+            "ACM",
+            "Google Scholar",
+            "IEEE"
         ]
       },
      "164":    {
         "link": "https://doi.org/10.1145/3491102.3517621",
-        "author": "",
+        "author": "Harrington, Christina and Martin-Hammond, Aqueasha and Bray, Kirsten E.",
         "venue": "CHI",
         "id": "164",
         "year":"2022",
@@ -2909,7 +2935,11 @@
             "2022",
             "Flow Diagram",
             "Empirical",
-            "Well-being & Health"
+            "Well-being & Health",
+            "Flow Diagram",
+            "IRR not Specified",
+            "ACM",
+            "IEEE"
         ]
       },
     "165":    {
@@ -2923,9 +2953,14 @@
             "CHI",
             "2022",
             "Artifact",
-            "Specific Modality"
+            "Specific Modality",
+            "Method not Specified",
+            "IRR not Specified",
+            "ACM",
+            "ScienceDirect"
         ]
-      }, "166":   {
+      },
+      "166":   {
         "link": "https://doi.org/10.1145/3491102.3517719",
         "author": "Suzuki, Ryo and Karim, Adnan and Xia, Tian and Hedayati, Hooman and Marquardt, Nicolai",
         "venue": "CHI",
@@ -2936,7 +2971,11 @@
             "CHI",
             "2022",
             "Artifact",
-            "Specific Modality"
+            "Specific Modality",
+            "IRR not Specified",
+            "Method not Specified",
+            "IEEE",
+            "SpringerLink"
         ]
       },
         "167":    {
@@ -2951,7 +2990,13 @@
             "2022",
             "Opinion",
             "Empirical",
-            "Meta HCI"
+            "Meta HCI",
+            "PRISMA",
+            "IRR not Specified",
+            "ACM",
+            "IEEE",
+            "ScienceDirect",
+            "Taylor and Francis"
         ]
       },
         "168":    { 
@@ -2966,7 +3011,10 @@
             "2022",
             "Opinion",
             "Empirical",
-            "Specific Application Area"
+            "Specific Application Area",
+            "No Databases Specified",
+            "IRR not Specified",
+            "Method not Specified"
         ]
       },
          "169":    {
@@ -2982,7 +3030,11 @@
             "Theoretical",
             "Methodological",
             "Empirical",
-            "Specific Population"
+            "Specific Population",
+            "Method not Specified",
+            "IRR not Specified",
+            "ACM",
+            "Scopus"
         ]
       },
         "170":     {
@@ -2999,7 +3051,11 @@
             "Empirical",
             "Artifact",
             "Methodological",
-            "Specific Population"
+            "Specific Population",
+            "IRR not Specified",
+            "ACM",
+            "IEEE",
+            "SpringerLink"
         ]
       },
          "171":        {
@@ -3015,7 +3071,14 @@
             "2021",
             "Empirical",
             "Specific Modality",
-            "Specific Population"
+            "Specific Population",
+            "ACM",
+            "IEEE",
+            "SpringerLink",
+            "ScienceDirect",
+            "ERIC",
+            "PsychINFO",
+            "IRR not Specified"
         ]
       },
          "172":      {
@@ -3030,8 +3093,10 @@
             "2021",
             "IMX",
             "Empirical",
-            "Specific Population"
-
+            "Specific Population",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified"
         ]
        },
            "173":    {
@@ -3045,7 +3110,10 @@
             "Empirical",
             "TEI",
             "2022",
-            "Specific Modality"
+            "Specific Modality",
+            "Method not Specified",
+            "IRR not Specified",
+            "No Databases Specified"
         ]
       },
            "174":    {
@@ -3060,7 +3128,13 @@
             "2021",
             "AutoUI",
             "Empirical",
-            "Automotive UI"
+            "Automotive UI",
+            "IRR not Specified",
+            "Method not Specified",
+            "Google Scholar",
+            "IEEE",
+            "ScienceDirect",
+            "ACM"
         ]
       },
           "175":   {
@@ -3076,10 +3150,15 @@
             "PRISMA",
             "Empirical",
             "Methodological",
-            "Automotive UI"
+            "Automotive UI",
+            "IRR not Specified",
+            "Scopus",
+            "EBSCO",
+            "IEEE",
+            "ACM"
         ]
       },
-          "176":     {
+        "176":     {
         "author": "Seaborn, Katie and Pennefather, Peter",
         "venue": "HRI",
         "id": "176",
@@ -3091,10 +3170,15 @@
             "Theoretical",
             "HRI",
             "2022",
-            "Human-Robot Interaction"
+            "Human-Robot Interaction",
+            "IRR not Specified",
+            "Scopus",
+            "Web of Science",
+            "IEEE",
+            "ACM"
         ]
       },
-          "177":   {
+        "177":   {
         "author": "Zimmerman, Megan and Bagchi, Shelly and Marvel, Jeremy and Nguyen, Vinh",
         "venue": "HRI",
         "id": "177",
@@ -3104,7 +3188,10 @@
             "HRI",
             "2022",
             "Methodological",
-            "Human-Robot Interaction"
+            "Human-Robot Interaction",
+            "IRR not Specified",
+            "Method not Specified",
+            "No Databases Specified"
         ]
       },
          "178":   {
@@ -3118,7 +3205,11 @@
             "2021",
             "MobileHCI",
             "Artifact",
-            "Specific Modality"
+            "Specific Modality",
+            "Method not Specified",
+            "No Databases Specified",
+            "IRR not Specified"
+
         ]
       }, 
       "179":   {
@@ -3133,7 +3224,10 @@
             "ISWC",
             "Artifact",
             "Methodological",
-            "Specific Modality"
+            "Specific Modality",
+            "IRR not Specified",
+            "ACM",
+            "Method not Specified"
         ]
       },
          "180":    {
@@ -3142,13 +3236,15 @@
         "venue": "DIS",
         "id": "180",
         "year":"2022",
-        "title": "Characterising soundscape research in human-computer&nbsp;interaction",
+        "title": "Characterising soundscape research in human-computer interaction",
         "tags": [
             "DIS",
             "2022",
             "PRISMA",
             "Methodological",
-            "Specific Modality"
+            "Specific Modality",
+            "IRR not Specified",
+            "ACM"
         ]
       },
          "181":    {
@@ -3163,7 +3259,12 @@
             "Empirical",
             "DIS",
             "2022",
-            "Specific Application Area"
+            "Specific Application Area",
+            "IRR not Specified",
+            "ACM",
+            "IEEE",
+            "SpringerLink",
+            "Elsevier"
         ]
       },
          "182":    {
@@ -3178,7 +3279,10 @@
             "Theoretical",
             "DIS",
             "2022",
-            "Meta HCI"
+            "Meta HCI",
+            "PRISMA",
+            "IRR not Specified",
+            "ACM"
         ]
       },
           "183":   {
@@ -3194,7 +3298,11 @@
             "2022",
             "Flow Diagram",
             "Empirical",
-            "Specific Application Area"
+            "Specific Application Area",
+            "Flow Diagram",
+            "IRR not Specified",
+            "ACM",
+            "IEEE"
         ]
       },
          "184":    {
@@ -3209,7 +3317,11 @@
             "Theoretical",
             "2022",
             "DIS",
-            "Specific Modality"
+            "Specific Modality",
+            "IRR not Specified",
+            "ACM",
+            "SpringerLink",
+            "IEEE"
         ]
       },
          "185":    {
@@ -3224,12 +3336,17 @@
             "Theoretical",
             "DIS",
             "2022",
-            "Specific Modality"
+            "Specific Modality",
+            "Flow Diagram",
+            "IRR not Specified",
+            "ACM",
+            "Google Scholar",
+            "Scopus"
         ]
       },
         "186":   {
         "link": "https://doi.org/10.1145/3379155.3391313",
-        "author": "",
+        "author": "Hirzle, Teresa and Cordts, Maurice and Rukzio, Enrico and Bulling, Andreas",
         "venue": "ETRA",
         "id": "186",
         "year":"2020",
@@ -3238,9 +3355,12 @@
             "ETRA",
             "2020",
             "PRISMA",
+            "IRR not Specified",
             "Empirical",
             "Methodological",
-            "Specific Modality"
+            "Specific Modality",
+            "ACM",
+            "IEEE"
         ]
       },
     "187": {
@@ -3260,7 +3380,7 @@
                 "Specific Modality"
             ]
       },
-           "188":   {
+    "188":   {
         "link": "https://doi.org/10.1145/2933242.2935874",
         "abstract": "This paper presents a design space for exploring design options of adaptive graphical menus based on Bertin's eight visual variables: position, size, shape, value, color, orientation, texture, and motion. In order to transform a traditional (static) menu into an adaptive one, at least one visual variable should be exploited to convey which menu items have been promoted or demoted depending on five characteristics: select, associative, quantitative, order, and length. The paper reviews selected adaptive menu interaction techniques belonging to each of these variables, classifies them according to the variables and characteristics and suggests not yet explored adaptive menu designs. It then defines four stability properties depending on which variables remain constant after adaptivity. A supporting software for prototyping the rendering of graphical adaptive menus is then introduced.",
         "author": "Charfi, Syrine and Dubois, Emmanuel and Scapin, Dominique L.",
@@ -3271,7 +3391,11 @@
         "tags": [
             "EICS",
             "2006",
+            "IRR not Specified",
+            "No Databases Specified",
+            "Empirical",
             "Specific Modality"
+            
         ]
       },
     "189":  {
@@ -3284,7 +3408,12 @@
         "tags": [
             "ITS",
             "2014",
-            "Specific Modality"
+            "IRR not Specified",
+            "Empirical",
+            "Specific Modality",
+            "ACM",
+            "IEEE",
+            "Google Scholar"
         ]
       }
     
