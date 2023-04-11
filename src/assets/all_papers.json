@@ -1595,8 +1595,8 @@
     "91": {
         "id": "91",
         "link": "https://doi.org/10.1145/3322276.3322346",
-        "author": "User Experience (UX) Capacity-Building: A Conceptual Model and Research Agenda",
-        "title": "MacDonald, C.M.",
+        "author": "MacDonald, C.M.",
+        "title": "User Experience (UX) Capacity-Building: A Conceptual Model and Research Agenda",
         "year": "2019",
         "venue": "DIS",
         "tags": [
@@ -2933,7 +2933,6 @@
             "Flow Diagram",
             "Empirical",
             "Well-being & Health",
-            "Flow Diagram",
             "IRR not Specified",
             "ACM",
             "IEEE"
@@ -3277,7 +3276,6 @@
             "DIS",
             "2022",
             "Meta HCI",
-            "PRISMA",
             "IRR not Specified",
             "ACM"
         ]
@@ -3296,7 +3294,6 @@
             "Flow Diagram",
             "Empirical",
             "Specific Application Area",
-            "Flow Diagram",
             "IRR not Specified",
             "ACM",
             "IEEE"
@@ -3334,7 +3331,6 @@
             "DIS",
             "2022",
             "Specific Modality",
-            "Flow Diagram",
             "IRR not Specified",
             "ACM",
             "Google Scholar",
